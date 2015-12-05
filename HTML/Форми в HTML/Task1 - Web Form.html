@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+		Task1 - Web Form
+		</title>
+	</head>
+	<body>
+		<form name="Web Form">
+			<table border="2px" style=border-collapse:collapse>
+				<tfoot>
+					<td colspan="4" align="center" style=background-color:lightblue>
+						<input type="submit" value="Submit" />
+						<input type="reset" value="Clear this form"/>
+					</td>
+				</tfoot>
+				<tbody>
+					<tr>
+						<td align="right">
+							<label for="Last Name"><b>Last Name</b></label>
+						</td>
+						<td colspan="3">
+							<input type="text"  id="Last Name" placeholder="Nakov" size="50px" />
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="First Name"><b>First Name</b></label>
+						</td>
+						<td colspan="3">
+							<input type="text" id="First Name" placeholder="Svetlin" size="50px" />
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Address"><b>Address</b></label>
+						</td>
+						<td colspan="3">
+							<textarea rows="4" cols="38" id="Address" placeholder="Right your address"  > </textarea>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="City"><b>City</b></label>
+						</td>
+						<td>
+							<input type="text" id="City" placeholder="Kaspichan" size="32px" />
+						</td>
+						<td>
+							<label for="State"><b>State</b></label>
+						</td>
+						<td >
+							<input type="text"  id="State" size="3px" />
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Zip"><b>Zip/Postal Code</b></label>
+						</td>
+						<td colspan="3">
+							<input type="text" id="Zip" placeholder="9325" size="10px" />
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Country"><b>Country</b></label>
+						</td>
+						<td colspan="3">
+							<select id="Country">
+								<option value="Value 1" selected="selected" >Bulgaria</option>
+								<option value="Value 2">England</option>
+								<option value="Value 3">USA</option>
+								<option value="Value 4">Germany</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td width="150px" align="right">
+							<label for="Phone"><b>Phone(country code, area code, number)</b></label>
+						</td>
+						<td colspan="3">
+							+(<input type="text" id="Phone" placeholder="359" size="6px" />)
+							<input type="text" placeholder="88" size="6px"/>-
+							<input type="text" placeholder="8334343"/>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Email"><b>Email</b></label>
+						</td>
+						<td colspan="3">
+							<input type="email" id="Email" 
+							pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+							required="true" placeholder="sample@email.com"/ size="50px">
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Birthday"><b>Birth day</b></label>
+						</td>
+						<td colspan="3"> 
+							Month<input type="text" id="Birthday" placeholder="06" size="2px" />
+							Day<input type="text" placeholder="14" size="2px"/>
+							Year(4 digit)<input type="text" placeholder="1980" size="4px"/>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Gender"><b>Gender</b></label>
+						</td>
+						<td colspan="3">
+							<select id="Gender">
+								<option value="Value 1">Male</option>
+								<option value="Value 2">Female</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Start"><b>Starting date</b></label>
+						</td>
+						<td colspan="3">
+							<input type="radio" id="Spring" name="date"  />
+							<label for="Spring">Spring 2006</label>
+							<input type="radio" id="Summer" name="date"/>
+							<label for="Summer">Summer 2006</label>
+						</td>
+					</tr>
+					<tr>
+						<td align="right">
+							<label for="Comments"><b>Comments/Questions</b></label>
+						</td>
+						<td colspan="3">
+							<textarea rows="6" cols="40" placeholder="Ask your questions" id="Comments" > </textarea>
+						</td>
+					</tr>
+				</tbody>	
+			</table>
+		</form>	
+	</body>
+</html>
