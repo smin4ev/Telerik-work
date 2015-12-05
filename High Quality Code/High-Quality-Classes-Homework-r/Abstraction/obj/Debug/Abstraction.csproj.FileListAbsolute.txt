@@ -1,0 +1,9 @@
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework-r\Abstraction\obj\Debug\Abstraction.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework-r\Abstraction\obj\Debug\Abstraction.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\High-Quality-Classes-Homework-r\Abstraction\obj\Debug\Abstraction.exe
+D:\Telerik kursove\Качествен Код\Homeworks\High-Quality-Classes-Homework-r\Abstraction\obj\Debug\Abstraction.pdb

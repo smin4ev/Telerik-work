@@ -1,0 +1,9 @@
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework-r\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Telerik kursove\Качествен Код\9.Висококачествени класове\High-Quality-Classes-Homework-r\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\High-Quality-Classes-Homework-r\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Telerik kursove\Качествен Код\Homeworks\High-Quality-Classes-Homework-r\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

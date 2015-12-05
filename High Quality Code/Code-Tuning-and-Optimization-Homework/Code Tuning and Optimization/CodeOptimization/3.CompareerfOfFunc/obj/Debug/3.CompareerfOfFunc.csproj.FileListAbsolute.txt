@@ -1,0 +1,6 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\bin\Debug\3.CompareerfOfFunc.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\bin\Debug\3.CompareerfOfFunc.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\bin\Debug\3.CompareerfOfFunc.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\obj\Debug\3.CompareerfOfFunc.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\obj\Debug\3.CompareerfOfFunc.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\3.CompareerfOfFunc\obj\Debug\3.CompareerfOfFunc.pdb

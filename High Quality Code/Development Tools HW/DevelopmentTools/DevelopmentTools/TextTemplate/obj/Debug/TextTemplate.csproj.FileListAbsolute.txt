@@ -1,0 +1,9 @@
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\bin\Debug\JustLog.exe.config
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\bin\Debug\JustLog.exe
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\bin\Debug\JustLog.pdb
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\obj\Debug\TextTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\obj\Debug\JustLog.exe
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\TextTemplate\obj\Debug\JustLog.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Development Tools HW\DevelopmentTools\DevelopmentTools\TextTemplate\bin\Debug\JustLog.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\Development Tools HW\DevelopmentTools\DevelopmentTools\TextTemplate\obj\Debug\JustLog.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Development Tools HW\DevelopmentTools\DevelopmentTools\TextTemplate\obj\Debug\JustLog.pdb

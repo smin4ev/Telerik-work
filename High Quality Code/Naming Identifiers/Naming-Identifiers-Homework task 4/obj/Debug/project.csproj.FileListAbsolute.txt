@@ -1,0 +1,7 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework\bin\Debug\Minesweeper.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework\bin\Debug\Minesweeper.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework\obj\Debug\Minesweeper.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework\obj\Debug\Minesweeper.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework task 4\obj\Debug\Minesweeper.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Naming Identifiers\Naming-Identifiers-Homework task 4\obj\Debug\Minesweeper.pdb

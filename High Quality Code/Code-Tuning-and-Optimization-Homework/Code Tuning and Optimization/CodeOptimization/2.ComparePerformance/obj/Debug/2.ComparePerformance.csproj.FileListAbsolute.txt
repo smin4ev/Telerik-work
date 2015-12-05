@@ -1,0 +1,6 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\bin\Debug\2.ComparePerformance.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\obj\Debug\2.ComparePerformance.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\bin\Debug\2.ComparePerformance.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\bin\Debug\2.ComparePerformance.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\obj\Debug\2.ComparePerformance.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Code-Tuning-and-Optimization-Homework\Code Tuning and Optimization\CodeOptimization\2.ComparePerformance\obj\Debug\2.ComparePerformance.pdb

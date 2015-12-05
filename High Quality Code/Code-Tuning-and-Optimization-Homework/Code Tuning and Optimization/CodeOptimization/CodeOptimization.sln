@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ComparePerformance", "2.ComparePerformance\2.ComparePerformance.csproj", "{BD1D6BA6-4C73-4666-A6E9-9A3A3F2DC27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CompareerfOfFunc", "3.CompareerfOfFunc\3.CompareerfOfFunc.csproj", "{8A5534F7-6C3F-43D1-BBC8-03615A70AF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1D6BA6-4C73-4666-A6E9-9A3A3F2DC27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1D6BA6-4C73-4666-A6E9-9A3A3F2DC27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1D6BA6-4C73-4666-A6E9-9A3A3F2DC27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1D6BA6-4C73-4666-A6E9-9A3A3F2DC27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5534F7-6C3F-43D1-BBC8-03615A70AF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5534F7-6C3F-43D1-BBC8-03615A70AF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5534F7-6C3F-43D1-BBC8-03615A70AF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5534F7-6C3F-43D1-BBC8-03615A70AF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

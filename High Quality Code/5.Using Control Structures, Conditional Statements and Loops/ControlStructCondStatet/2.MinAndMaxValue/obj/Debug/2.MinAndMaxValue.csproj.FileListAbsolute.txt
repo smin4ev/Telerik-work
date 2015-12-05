@@ -1,0 +1,5 @@
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\2.MinAndMaxValue\bin\Debug\2.MinAndMaxValue.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\2.MinAndMaxValue\bin\Debug\2.MinAndMaxValue.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\2.MinAndMaxValue\bin\Debug\2.MinAndMaxValue.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\2.MinAndMaxValue\obj\Debug\2.MinAndMaxValue.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\2.MinAndMaxValue\obj\Debug\2.MinAndMaxValue.pdb

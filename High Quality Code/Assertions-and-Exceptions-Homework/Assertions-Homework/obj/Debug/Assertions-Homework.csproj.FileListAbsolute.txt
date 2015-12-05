@@ -1,0 +1,4 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

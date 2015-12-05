@@ -1,0 +1,6 @@
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\bin\Debug\2.PrintStatistics.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\bin\Debug\2.PrintStatistics.exe
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\bin\Debug\2.PrintStatistics.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\obj\Debug\2.PrintStatistics.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\obj\Debug\2.PrintStatistics.exe
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\2.PrintStatistics\obj\Debug\2.PrintStatistics.pdb

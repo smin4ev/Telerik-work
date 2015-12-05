@@ -1,0 +1,8 @@
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\bin\Debug\JustLog.exe.config
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\bin\Debug\JustLog.exe
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\bin\Debug\JustLog.pdb
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\bin\Debug\log4net.dll
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\bin\Debug\log4net.xml
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\obj\Debug\JustLog.csprojResolveAssemblyReference.cache
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\obj\Debug\JustLog.exe
+C:\Users\Minchev\Desktop\DevelopmentTools1\DevelopmentTools\JustLog\obj\Debug\JustLog.pdb

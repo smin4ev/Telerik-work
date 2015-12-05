@@ -1,0 +1,9 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Cars.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Moq.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\bin\Debug\Moq.xml
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\obj\Debug\Cars.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb

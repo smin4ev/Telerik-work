@@ -1,0 +1,14 @@
+D:\KPK\H11TestDrivenDevelopment\bin\Debug\Poker.exe
+D:\KPK\H11TestDrivenDevelopment\bin\Debug\Poker.pdb
+D:\KPK\H11TestDrivenDevelopment\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\KPK\H11TestDrivenDevelopment\obj\Debug\Poker.exe
+D:\KPK\H11TestDrivenDevelopment\obj\Debug\Poker.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\H11TestDrivenDevelopment\obj\Debug\Poker.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\H11TestDrivenDevelopment\obj\Debug\Poker.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\H11TestDrivenDevelopment\bin\Debug\Poker.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\H11TestDrivenDevelopment\bin\Debug\Poker.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\H11TestDrivenDevelopment\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Test-Driven Development\H11TestDrivenDevelopment\obj\Debug\Poker.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Test-Driven Development\H11TestDrivenDevelopment\obj\Debug\Poker.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Test-Driven Development\TestDrivenDevelopment\obj\Debug\Poker.exe
+D:\Telerik kursove\Качествен Код\Homeworks\Test-Driven Development\TestDrivenDevelopment\obj\Debug\Poker.pdb

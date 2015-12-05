@@ -1,0 +1,5 @@
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars\bin\Debug\Cars.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars\bin\Debug\Cars.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars\obj\Debug\Cars.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Mocking с Moq и JustMock\MockingWithMoqAndJustMockHW\MockingWithMoqAndJustMockHW\Cars\obj\Debug\Cars.pdb

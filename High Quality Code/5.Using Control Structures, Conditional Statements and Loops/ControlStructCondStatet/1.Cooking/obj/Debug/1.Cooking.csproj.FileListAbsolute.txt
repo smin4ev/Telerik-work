@@ -1,0 +1,5 @@
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\1.Cooking\bin\Debug\1.Cooking.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\1.Cooking\bin\Debug\1.Cooking.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\1.Cooking\bin\Debug\1.Cooking.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\1.Cooking\obj\Debug\1.Cooking.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\1.Cooking\obj\Debug\1.Cooking.pdb

@@ -1,0 +1,14 @@
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\bin\Debug\Martix.Tests.dll
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\bin\Debug\Martix.Tests.pdb
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\bin\Debug\GameFifteen.exe
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\bin\Debug\GameFifteen.pdb
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\obj\Debug\Martix.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\obj\Debug\Martix.Tests.dll
+D:\Telerik kursove\Качествен Код\14.Рефакториране на кода\Martix.Tests\obj\Debug\Martix.Tests.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\bin\Debug\Martix.Tests.dll
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\bin\Debug\Martix.Tests.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\bin\Debug\GameFifteen.exe
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\bin\Debug\GameFifteen.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\obj\Debug\Martix.Tests.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\obj\Debug\Martix.Tests.dll
+D:\Telerik kursove\Качествен Код\Homeworks\RefactoringHW\Martix.Tests\obj\Debug\Martix.Tests.pdb

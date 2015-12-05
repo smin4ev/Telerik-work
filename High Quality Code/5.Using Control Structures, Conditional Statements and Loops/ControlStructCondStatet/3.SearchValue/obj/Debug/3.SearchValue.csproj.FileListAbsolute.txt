@@ -1,0 +1,5 @@
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\3.SearchValue\bin\Debug\3.SearchValue.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\3.SearchValue\bin\Debug\3.SearchValue.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\3.SearchValue\bin\Debug\3.SearchValue.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\3.SearchValue\obj\Debug\3.SearchValue.exe
+D:\Telerik kursove\Качествен Код\Homeworks\5.Using Control Structures, Conditional Statements and Loops\ControlStructCondStatet\3.SearchValue\obj\Debug\3.SearchValue.pdb

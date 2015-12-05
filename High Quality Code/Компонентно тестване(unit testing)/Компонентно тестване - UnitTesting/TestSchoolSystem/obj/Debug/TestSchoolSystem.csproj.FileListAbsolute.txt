@@ -1,0 +1,21 @@
+D:\KPK\H10UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.csprojResolveAssemblyReference.cache
+D:\KPK\H10UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.dll
+D:\KPK\H10UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.pdb
+D:\KPK\H10UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.dll
+D:\KPK\H10UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.pdb
+D:\KPK\H10UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.dll
+D:\KPK\H10UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\KPK-master\UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\bin\Debug\TestSchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\bin\Debug\SchoolSystem.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.dll
+D:\Telerik kursove\Качествен Код\Homeworks\Компонентно тестване(unit testing)\Компонентно тестване - UnitTesting\TestSchoolSystem\obj\Debug\TestSchoolSystem.pdb

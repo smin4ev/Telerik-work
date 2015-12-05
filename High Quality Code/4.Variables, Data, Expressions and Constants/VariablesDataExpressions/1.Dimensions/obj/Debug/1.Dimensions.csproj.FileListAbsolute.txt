@@ -1,0 +1,6 @@
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\bin\Debug\1.Dimensions.exe.config
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\obj\Debug\1.Dimensions.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\bin\Debug\1.Dimensions.exe
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\bin\Debug\1.Dimensions.pdb
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\obj\Debug\1.Dimensions.exe
+D:\Telerik kursove\Качествен Код\Homeworks\4.Variables, Data, Expressions and Constants\VariablesDataExpressions\1.Dimensions\obj\Debug\1.Dimensions.pdb
