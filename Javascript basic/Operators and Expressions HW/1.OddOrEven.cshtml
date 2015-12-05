@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Odd or Even</title>
+        
+    </head>
+    <body>
+        <div id="js-console">
+            
+            <div>
+                <label for="number">Enter a number for checking odd or even:</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Check the button to show the result</label>
+                <input type="button" value="Check" id="op" onclick="NumberCheck()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //Write an expression that checks if given integer is odd or even.
+            function NumberCheck() {
+                var num = jsConsole.read("#number");
+                if ((isNaN(num)) || (num == null) || (num == "")) {
+                    jsConsole.writeLine("Incorrect number!");
+                }
+                else if (num%2 == 0) {
+                    jsConsole.writeLine("Number" + " " + num + " " + "is even!");
+                }
+                else {
+                    jsConsole.writeLine("Number" + " " + num + " " + "is odd!");
+                }
+            }
+        </script>
+    </body>
+</html>

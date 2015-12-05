@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Last Digit Of Number As English Word</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="number">Enter a number that will be checked for last digit</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to check the result</label>
+                <input type="button" value="Check" onclick="lastDigitAsWord()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //1.Write a function that returns the last digit of given integer as an English word. 
+            //Examples: 512  "two", 1024  "four", 12309  "nine"
+            function lastDigitAsWord() {
+                var numberForChecking = jsConsole.read("#number");
+                var reminder = numberForChecking % 10;
+                switch (reminder) {
+                    case 0:
+                        jsConsole.writeLine('Zero');
+                        break;
+                    case 1:
+                        jsConsole.writeLine('One');
+                        break;
+                    case 2:
+                        jsConsole.writeLine('Two');
+                        break;
+                    case 3:
+                        jsConsole.writeLine('Three');
+                        break;
+                    case 4:
+                        jsConsole.writeLine('Four');
+                        break;
+                    case 5:
+                        jsConsole.writeLine('Five');
+                        break;
+                    case 6:
+                        jsConsole.writeLine('Six');
+                        break;
+                    case 7:
+                        jsConsole.writeLine('Seven');
+                        break;
+                    case 8:
+                        jsConsole.writeLine('Eight');
+                        break;
+                    case 9:
+                        jsConsole.writeLine('Nine');
+                        break;
+                    default:
+                        jsConsole.writeLine('Invalid number!');
+                        break;
+                }
+            }
+            
+        </script>
+    </body>
+</html>

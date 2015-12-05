@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Maximal Increasing Sequence in Array</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <label>Click the button to see maximal increasing sequence in array</label>
+            <input type="button" value="Check" onclick="maximalIncSequence()" />
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //4.Write a script that finds the maximal increasing sequence in an array. 
+            //Example: {3, 2, 3, 4, 2, 2, 4}  {2, 3, 4}.
+            
+            function maximalIncSequence() {
+                var array = [3, 2, 3, 4, 2, 2, 4];
+                jsConsole.writeLine('Our array is: ' + array.join(', '));
+                var currentLength = 1;
+                var maxLength = 1;
+                var bestStart = 0;
+                var i;
+                var j = 0;
+                for (i = 0; i < array.length-1; i++) {
+                    if (array[i] < array[i + 1]) {
+                        currentLength++;
+                        if (currentLength > maxLength) {
+                            maxLength = currentLength;
+                            bestStart = i + 1 - maxLength + 1;
+                        }
+                    }
+                    else {
+                        currentLength = 1;
+                    }
+                }
+                var finalArray = new Array(maxLength)
+                for ( i = bestStart; i < bestStart+maxLength; i++) {
+                    finalArray[j] = array[i];
+                    j++;
+                }
+                jsConsole.writeLine('Max increasing  sequence is by' + ' ' + maxLength + ' ' +
+                    'elements and they are ' + ' ' + finalArray.join(', '))
+            }
+
+        </script>
+    </body>
+</html>

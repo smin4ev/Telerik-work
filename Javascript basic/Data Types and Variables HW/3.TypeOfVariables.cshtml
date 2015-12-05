@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Type of Variables</title>
+    </head>
+    <body>
+        <div id="js-console"></div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //3.Try typeof on all variables you created (from task 1)
+            //4.Create null, undefined variables and try typeof on them - lest two variables!
+
+            var array = ["Ford", "Opel", "BMW", "Mercedes"];
+            jsConsole.writeLine('Array is ' + ' ' + typeof(array) + '!');
+            var bool = true;
+            jsConsole.writeLine('Bool is' + ' ' + typeof (bool) + '!');
+            var floatingPointNumber = 12.123;
+            jsConsole.writeLine('Floating point is' + ' ' + typeof (floatingPointNumber) + '!');
+            var number = 15;
+            jsConsole.writeLine('Number is' + ' ' + typeof (number) + '!');
+            var someString = "This is string literal!"
+            jsConsole.writeLine('SomeString is' + ' ' + typeof (someString) + '!');
+            var undefinedValue = undefined;
+            jsConsole.writeLine('UndefinedValue is' + ' ' + typeof(undefinedValue) + '!');
+            var check = null;
+            jsConsole.writeLine('Check is' + ' ' + typeof (check) + '!')
+        </script>
+    </body>
+</html>

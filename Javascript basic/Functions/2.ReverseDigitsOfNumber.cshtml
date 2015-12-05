@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="number">Enter the number which digit will be reversed</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to see reversed number</label>
+                <input type="button" value="Check" onclick="reverseNumberOfDigit()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //2.Write a function that reverses the digits of given decimal number. Example: 256  652
+            function reverseNumberOfDigit() {
+                var numberForCheckingAsString = jsConsole.read("#number");
+                    var reverseNumberAsString = [];
+                    var j = 0
+                    for (var i = numberForCheckingAsString.length - 1; i >= 0; i--, j++) {
+                        reverseNumberAsString[j] = numberForCheckingAsString[i];
+                    }
+                    jsConsole.writeLine(reverseNumberAsString.join(''));
+            }
+        </script>
+    </body>
+</html>

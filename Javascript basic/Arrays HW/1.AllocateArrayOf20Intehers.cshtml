@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alloca</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <label>Click the button to see array elements multiple by 5:</label>
+            <input type="button" value="Check" onclick="multipleBy5()" />
+        </div>
+
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //1.Write a script that allocates array of 20 integers and initializes 
+            //each element by its index multiplied by 5. Print the obtained array on the console.
+            function multipleBy5() {
+               
+                var array = new Array(20);
+                var i;
+                for (var i = 0; i < array.length; i++) {
+                    array[i] = i * 5;
+                }
+                jsConsole.writeLine(array.join(", "));
+            }
+        </script>
+    </body>
+    
+</html>

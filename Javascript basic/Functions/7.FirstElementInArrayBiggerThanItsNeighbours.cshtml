@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Element in Array Bigger Than Its Neighbours</title>
+    </head>
+    <body>
+        <div id="js-console">
+
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //7.Write a function that returns the index of the first element in array 
+            //that is bigger than its neighbors, or -1, if there’s no such element.
+            //    Use the function from the previous exercise.
+            
+            var inputArray = [2, 3, 4, 7, 8, 9, 13];
+            var temp = 0
+            function elementNeighbours() {
+                for (var i = 1; i < inputArray.length - 1; i++) {
+                    if ((inputArray[i - 1] < inputArray[i]) && (inputArray[i + 1] < inputArray[i])) {
+                        return jsConsole.writeLine('Element ' + inputArray[i] + ' on position ' + i + ' is bigger than his neighbour!');
+                    }
+                }
+                jsConsole.writeLine(-1)
+            }
+            elementNeighbours();
+        </script>
+    </body>
+</html>

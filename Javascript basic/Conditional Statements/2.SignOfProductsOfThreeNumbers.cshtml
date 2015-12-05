@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sign of Product of Three Numbers</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="firstNum">Enter first number:</label>
+                <input type="text" id="firstNum" />
+            </div>
+            <div>
+                <label for="secondNum">Enter second number:</label>
+                <input type="text" id="secondNum" />
+            </div>
+            <div>
+                <label for="thirdNum">Enter third number:</label>
+                <input type="text" id="thirdNum" />
+            </div>
+            <div>
+                <label>Click the button to see the sign of product of these three numbers</label>
+                <input type="button" value="Check" onclick="signOfProduct()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //2.Write a script that shows the sign (+ or -) of the product of three real numbers 
+            // without calculating it. Use a sequence of if statements.
+
+            function signOfProduct() {
+                var firstNumber = jsConsole.readFloat("#firstNum");
+                var secondNumber = jsConsole.readFloat("#secondNum");
+                var thirdNumber = jsConsole.readFloat("#thirdNum");
+                if (firstNumber === 0 || secondNumber === 0 || thirdNumber === 0) {
+                    jsConsole.writeLine('Product of these three numbers is 0!');
+                }
+                else if (firstNumber < 0 && secondNumber > 0 && thirdNumber > 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign -!');
+                }
+                else if (firstNumber > 0 && secondNumber < 0 && thirdNumber > 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign -!');
+                }
+                else if (firstNumber > 0 && secondNumber > 0 && thirdNumber < 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign -!');
+                }
+                else if (firstNumber < 0 && secondNumber < 0 && thirdNumber < 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign -!');
+                }
+                else if (firstNumber < 0 && secondNumber < 0 && thirdNumber > 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign +!');
+                }
+                else if (firstNumber < 0 && secondNumber > 0 && thirdNumber < 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign +!');
+                }
+                else if (firstNumber > 0 && secondNumber < 0 && thirdNumber < 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign +!');
+                }
+                else if (firstNumber > 0 && secondNumber > 0 && thirdNumber > 0) {
+                    jsConsole.writeLine('Produuct of these three numbers is with sign +!');
+                }
+            }
+        </script>
+    </body>
+</html>

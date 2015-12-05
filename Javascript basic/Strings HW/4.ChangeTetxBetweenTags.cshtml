@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //You are given a text. Write a function that changes the text in all regions:
+            //    <upcase>text</upcase> to uppercase.
+            //    <lowcase>text</lowcase> to lowercase
+            //    <mixcase>text</mixcase> to mix casing(random)
+            function applyRegions(html) {
+                'use strict';
+
+                var result = '',
+                    mix = 'up',
+                    stack = [],
+                    i;
+                for (i = 0; i < html.length; i += 1) {
+                    if (html[i] === '<') {
+                        if (html[i + 1] === 'm') {
+                            stack.push('mixed');
+                            i += 8;
+                        } else if (html[i + 1] === 'l') {
+                            stack.push('lower');
+                            i += 8;
+                        } else if (html[i + 1] === 'u') {
+                            stack.push('upper');
+                            i += 7;
+                        } else if (html[i + 1] === '/') {
+                            if (html[i + 2] === 'm') {
+                                stack.pop();
+                                i += 9;
+                            } else if (html[i + 2] === 'l') {
+                                stack.pop();
+                                i += 9;
+                            } else {
+                                stack.pop();
+                                i += 8;
+                            }
+                        }
+                    } else {
+                        if (stack.length === 0) {
+                            result += html[i];
+                        } else if (stack[stack.length - 1] === 'mixed') {
+                            if (mix === 'up') {
+                                result += html[i].toUpperCase();
+                                mix = 'low';
+                            } else {
+                                result += html[i].toLowerCase();
+                                mix = 'up';
+                            }
+                        } else if (stack[stack.length - 1] === 'lower') {
+                            result += html[i].toLowerCase();
+                        } else {
+                            result += html[i].toUpperCase();
+                        }
+                    }
+                }
+
+                return result;
+            }
+        </script>
+    </body>
+</html>

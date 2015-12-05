@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Prime Number less then 100</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="number">Enter a number</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to check if the number is prime</label>
+                <input type="button" value="Check" onclick ="isPrimeNumber()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //7.Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.
+
+            function isPrimeNumber() {
+                var number = jsConsole.read("#number");
+                var check = Math.pow(2, (number-1)) % number;//Теорема на Ферма - 1 и 2 се пропускат, затова съм ги извел като отделни случаи!
+                if (number == 1 || number == 2) {
+                    jsConsole.writeLine('Number' + ' ' + number + ' '+ 'is a prime number!')
+                }
+                else {
+                    if (check == 1) {
+                        jsConsole.writeLine('Number' + ' ' + number + ' ' + 'is a prime number!');
+                    }
+                    else {
+                        jsConsole.writeLine('Number' + ' ' + number + ' ' + 'is NOT a prime number!');
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

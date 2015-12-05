@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="number">Enter a number that we will search for its index in the array </label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to see index of the number</label>
+                <input type="button" value="Check" onclick="indexOfNumber()" /> 
+            </div>
+        </div>
+
+         <script src="scripts/js-console.js"></script>
+        <script>
+            //7.Write a program that finds the index of given element in a sorted array of integers by 
+            //using the binary search algorithm (find it in Wikipedia).
+            function indexOfNumber() {
+                var number = jsConsole.readFloat("#number");
+                var array = [2, 3, 5, 7, 9, 12, 15, 16, 19, 21, 25, 29];
+                jsConsole.writeLine('Our array is: ' + array.join(', '));
+                var startSearch = 0;
+                var endSearch = array.length - 1;
+                var middle;
+                var i;
+                var counter=0;
+                for (i = 0; i < array.length; i++) {
+                    if (number == array[i]) {
+                        counter++;
+                    }
+                }
+                if (counter == 0) {
+                    jsConsole.writeLine('There is no number ' + number + '  in our array!');
+                }
+                else {
+                    while (startSearch <= endSearch) {
+                        middle = parseInt((startSearch + endSearch) / 2);
+                        if (array[middle] == number) {
+                            jsConsole.writeLine('Number ' + number + ' is on position ' + middle + ' in array!' );
+                            break;
+                        }
+                        if (array[middle] < number) {
+                            startSearch = middle + 1;
+                        }
+                        if (array[middle] > number) {
+                            endSearch = middle - 1;
+                        }
+                    }
+                   
+                }
+            }
+        </script>
+    </body>
+</html>

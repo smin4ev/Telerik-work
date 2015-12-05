@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //4.Write a function that checks if a given object contains a given property
+            //  var obj  = …;
+            //  var hasProp = hasProperty(obj,"length");
+
+            function conteinPreperty(object1, property) {
+                for (var prop in object1) {
+                    if (prop === property) {
+                        jsConsole.writeLine('Object contein this property');
+                        return true;
+                    }
+                    else {
+                        jsConsole.writeLine('Object does not contein this property');
+                        return false;
+                    }
+                }
+            }
+            var testObject = {
+                credit: 1000,
+                ap: 500,
+                sum: 25
+              
+            }
+            conteinPreperty(testObject, "credit");
+            conteinPreperty(testObject, "ap");
+            conteinPreperty(testObject, "sum");
+        </script>
+    </body>
+</html>

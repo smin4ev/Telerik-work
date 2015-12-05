@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Check for Divided by 35</title>
+    </head>
+    <body>
+         <div id="js-console">
+             <div>
+                 <label for="number">Enter a number for checking if divided by 35</label>
+                 <input type="text"  id="number"/>
+             </div>  
+             <div>
+                 <label>Click the button for checkling the number</label>
+                 <input type="button" value="Check" onclick="NumberForCheck()" />
+             </div> 
+         </div>
+         <script src="scripts/js-console.js"></script>
+        <script>
+            //2.Write a boolean expression that checks for given integer if it can be divided 
+            //(without remainder) by 7 and 5 in the same time.
+
+            function NumberForCheck() {
+                var number = jsConsole.read("#number");
+                if (isNaN(number) || number == null || number == "") {
+                    jsConsole.writeLine('Incorrect number!')
+                }
+                else if (number % 35 == 0) {
+                    jsConsole.writeLine('Number' + ' ' + number + ' ' + 'IS divisible by 35!')
+                }
+                else {
+                    jsConsole.writeLine('Number' + ' ' + number + ' ' + 'IS NOT divisible by 35!')
+                }
+            }
+        </script>
+    </body>
+</html>

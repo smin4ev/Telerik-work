@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //Write a function that extracts the content of a html page given as text. 
+            //The function should return anything that is in a tag, without the tags:
+            //      <html><head><title>Sample site</title></head><body><div>text<div>more text
+            //      </div>and more...</div>in body</body></html>
+            //      result
+            //      Sample sitetextmore textand more...in body
+            function extractTextBetweenTags(text) {
+                var inTag = true;
+                var textOutsideTags = '';
+                for (var i = 0; i < text.length-1; i++) {
+                    if (text[i] == '<') {
+                        inTag = false;
+                    }
+                    else if (text[i] == '>') {
+                        inTag = true;
+                    }
+                    if (inTag == true) {
+                        if (text[i + 1] == '<') {
+                            continue;
+                        }
+                        else {
+                            textOutsideTags = textOutsideTags + text[i + 1];
+                        }
+                    }
+                }
+                jsConsole.writeLine(textOutsideTags);
+            }
+
+            var test = '<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>A!';
+            extractTextBetweenTags(test);
+        </script>
+    </body>
+</html>

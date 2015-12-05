@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        <label>Click the button to see Min and Max number in array of numbers</label>
+        <input type="button" value="Check" onclick="minAndMaxNum()" />
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //3.Write a script that finds the max and min number from a sequence of numbers
+            function minAndMaxNum() {
+                var array = [6, 7, 12, -6, -13, 29, 34, -45, 99, 19, 31, -77, 20, -111];
+               
+                var minValue = Number.MAX_VALUE;
+                var maxValue = Number.MIN_VALUE;
+                var strArray = '';
+                for (var i = 0; i < array.length; i++) {
+
+                    if (array[i] < minValue) {
+                        minValue = array[i];
+                    }
+                    if (array[i] > maxValue) {
+                        maxValue = array[i];
+                    }
+                }
+                for (var i = 0; i < array.length-1; i++) {
+                    strArray = strArray + array[i] + ', ';
+                }
+                strArray = strArray + array[array.length-1];
+                jsConsole.writeLine('For the array:[' + strArray + ']:');
+                jsConsole.writeLine('Minimal value:' + minValue);
+                jsConsole.writeLine('Maximal value:' +maxValue);
+            }
+            
+        </script>
+    </body>
+</html>

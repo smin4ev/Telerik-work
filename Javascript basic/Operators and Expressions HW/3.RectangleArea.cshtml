@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rectangle Area</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="height">Enter a height of rectangle</label>
+                <input type="text" id="height" />
+            </div>
+            <div>
+                <label for="widht">Enter a width of rectangle</label>
+                <input type="text" id="width" />
+            </div>
+            <div>
+                <label>Rectangle area is:</label>
+                <input type="button" value="Area is:" onclick="RectangleArea()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //3.Write an expression that calculates rectangle’s area by given width and height.
+            function RectangleArea() {
+                var height = jsConsole.read("#height");
+                var width = jsConsole.read("#width");
+                var area = height * width;
+                jsConsole.writeLine('Rectangle area is' + ' ' + area + '!');
+            }
+        </script>
+    </body>
+</html>

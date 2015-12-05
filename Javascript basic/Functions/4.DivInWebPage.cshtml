@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Div in Web Page</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label>Click the button to see how many 'div' elements there are on the currnet page </label>
+                <input type="button" value="Check"  onclick="countOfDivElements()" />
+            </div>
+        </div>
+        <div>
+
+        </div>
+        <div>
+            <div>
+
+            </div>
+
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //4.Write a function to count the number of divs on the web page
+            //Do not test this task in Chrome - some bug with counting of divs.Other browsers are OK!!!!!!!!!
+            function countOfDivElements() {
+                var numberOfDivs = document.getElementsByTagName("div").length;
+                jsConsole.writeLine('Number of "div" tags on this web page is ' + numberOfDivs);
+            }
+        </script>
+    </body>
+</html>

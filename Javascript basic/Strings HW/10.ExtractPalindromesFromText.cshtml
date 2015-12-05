@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>10. Palindromes</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+
+
+    <label for="tb-text">Enter text:  </label>
+    <input type="text" id="tb-text" />
+    <a href="#" onclick="onBtnClick()">Check!</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        //10.Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+        //   str = stringFormat("Hello {0}!","Peter");
+        //   str = "Hello Peter!";
+
+
+
+        function onBtnClick() {
+            var txt = jsConsole.read("#tb-text");
+            var words = txt.split(" ");
+            var isPalindrome = false;
+            var word = "";
+            for (var index = 0; index < words.length; index++) {
+                word = words[index];
+                for (var i = 0; i < parseInt(word.length / 2) ; i++) {
+                    if (word[i] == word[word.length - 1 - i]) {
+                        isPalindrome = true;
+                    }
+                    else {
+                        isPalindrome = false;
+                    }
+                }
+                if (isPalindrome && word.length > 1) {
+                    jsConsole.writeLine(word);
+                }
+            }
+        }
+    </script>
+</body>
+</html>

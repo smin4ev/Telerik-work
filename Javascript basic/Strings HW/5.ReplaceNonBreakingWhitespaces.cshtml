@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //Write a function that replaces non breaking white-spaces in a text with &nbsp;
+            function replaceWhiteSpases(text) {
+                var replacedText = '';
+                var nbsp = '&nbsp';
+                for (var i = 0; i < text.length; i++) {
+                    if (text[i] == ' ') {
+                        replacedText = replacedText + nbsp;
+                    }
+                    else {
+                        replacedText = replacedText + text[i];
+                    }
+                }
+                jsConsole.writeLine(replacedText);
+            }
+            var someTestText = "This is some text for replasing white-spaces!White-spaces are replaces with &ampnbsp!"
+            replaceWhiteSpases(someTestText);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Smallest And Largest Property Lexicographically</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <label>Click the button to see smallest and largest propetties in different objects</label>
+            <input type="button" value ="Check " onclick="findSmallAndLarg()" />
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //4.Write a script that finds the lexicographically smallest and largest property in document, 
+            //window and navigator objects - Взаимствана от форума!!!!!!!!!!!
+            function findSmallAndLarg(){
+                [document, window, navigator].forEach(findSmallAndLargeProperty);
+            }
+
+            function findSmallAndLargeProperty(obj) {
+
+                var outputString = '';
+                var min = "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz";
+                var max = "";
+                var currentProperty;
+
+
+                for (var prop in obj) {
+                    currentProperty = prop.toString();
+
+
+                    if (currentProperty > max)
+                        max = currentProperty;
+
+
+                    if (currentProperty < min)
+                        min = currentProperty;
+                }
+
+
+                jsConsole.writeLine("In the " + obj);
+                jsConsole.writeLine("The lexicographically largest property is " + max);
+                jsConsole.writeLine("The lexicographically smallest property is " + min);
+            }
+
+        </script>
+    </body>
+</html>

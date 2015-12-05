@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Solve Quadratic Equation</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="firstNum">Enter first coefficient:</label>
+                <input type="text" id="firstNum" />
+            </div>
+            <div>
+                <label for="secondNum">Enter second coefficient:</label>
+                <input type="text" id="secondNum" />
+            </div>
+            <div>
+                <label for="thirdNum">Enter third coefficient:</label>
+                <input type="text" id="thirdNum" />
+            </div>
+            <div>
+                <label>Click the button to see the roots of the equation</label>
+                <input type="button" value="Check" onclick="equationRoot()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //6.Write a script that enters the coefficients a, b and c of a quadratic equation
+            //a*x2 + b*x + c = 0
+            //and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots
+            function equationRoot() {
+                var a = jsConsole.readFloat("#firstNum");
+                var b = jsConsole.readFloat("#secondNum");
+                var c = jsConsole.readFloat("#thirdNum");
+                var discrim = (b * b) - 4 * a * c;
+                if (discrim === 0) {
+                    jsConsole.write('Equation has one double root x1=x2=');
+                    jsConsole.writeLine((-b)/(2*a));
+                }
+                else if (discrim > 0) {
+                    jsConsole.write('Equation has two roots. First one x1=');
+                    jsConsole.writeLine((-b + Math.sqrt(discrim)) / 2 * a);
+                    jsConsole.write('Second one x2=');
+                    jsConsole.writeLine((-b - Math.sqrt(discrim)) / 2 * a);
+                }
+                else {
+                    jsConsole.writeLine('Equation has now real roots!');
+                }
+            }
+        </script>
+    </body>
+</html>

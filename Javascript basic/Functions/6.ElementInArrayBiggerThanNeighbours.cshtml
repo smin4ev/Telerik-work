@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Element in Array Bigger Than Its Neighbours</title>
+    </head>
+    <body>
+        <div id="js-console">
+
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //6.Write a function that checks if the element at given position in given array 
+            //of integers is bigger than its two neighbours (when such exist).
+
+            var inputArray = [2, 3, 4, -5, -7, -8, 5, 9, 10, 15, 12, 20];
+            jsConsole.writeLine('Our array is: ' + inputArray.join(', '));
+            function elementNeighbours(array, index) {
+                if ((array[index - 1] < array[index]) && (array[index + 1] < array[index])) {
+                    jsConsole.writeLine('Element ' + array[index] + ' on position ' + index + ' is BIGGER than his neighbour!');
+                }
+                else {
+                    jsConsole.writeLine('Element ' + array[index] + ' on position ' + index + ' is NOT bigger than his neighbour!')
+                }
+            }
+            elementNeighbours(inputArray, 3);
+            elementNeighbours(inputArray, 6)
+            elementNeighbours(inputArray,2)
+        </script>
+    </body>
+</html>

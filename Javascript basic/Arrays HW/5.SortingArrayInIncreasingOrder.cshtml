@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+         <div id="js-console">
+            <label>Click the button to see sorted  array</label>
+            <input type="button" value="Check" onclick="sortedArray()" />
+         </div>
+         <script src="scripts/js-console.js"></script>
+        <script>
+            //4.Sorting an array means to arrange its elements in increasing order. 
+            //Write a script to sort an array. Use the "selection sort" algorithm: 
+            //Find the smallest element, move it at the first position, find the smallest 
+            //from the rest, move it at the second position, etc.Hint: Use a second array
+            function sortedArray() {
+                var array = [4, 8, 12, 13, 6, 7, 10];
+                jsConsole.writeLine('Our array is: ' + array.join(', '));
+                var temporary;
+                var valueOfCurrentElemetOfArray;
+                var i;
+                var j;
+                for (i = 0; i < array.length - 1; i++) {
+                    valueOfCurrentElemetOfArray = i;
+                    for (j = i + 1; j < array.length; j++) {
+                        if (array[j] < array[valueOfCurrentElemetOfArray]) {
+                            valueOfCurrentElemetOfArray = j;
+                        }
+                    }
+                    temporary = array[i];
+                    array[i] = array[valueOfCurrentElemetOfArray];
+                    array[valueOfCurrentElemetOfArray] = temporary;
+                }
+            
+                jsConsole.writeLine('Our array after sorting is: ' + ' ' + array.join(', ') );
+            }
+        </script>
+    </body>
+</html>

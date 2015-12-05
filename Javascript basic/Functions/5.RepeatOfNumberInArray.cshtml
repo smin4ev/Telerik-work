@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Repeat Numbers In Array</title>
+    </head>
+    <body>
+        
+        <div id="js-console">
+            <div>
+                <label for="number">Enter a number for checking how many times it is repeat in array</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to see the result</label>
+                <input type="button" value="Check" onclick="numberInArray()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //5.Write a function that counts how many times given number appears in given array. 
+            //Write a test function to check if the function is working correctly
+            var array = [1, 2, 3, 2, 5, 6, 5, 6, 12, 6, 15, 23, 14, 12, 5, 6, 7, 8, 8, 8];
+            function numberInArray(value) {
+                var number = jsConsole.readInteger("#number");
+                var counter = 0;
+                if (isNaN(number)) {
+                    jsConsole.writeLine('Invalid input!');
+                }
+                else {
+                    for (var i = 0; i < array.length; i++) {
+                        if (array[i] === number) {
+                            counter++;
+                        }
+                    }
+                    jsConsole.writeLine('Number ' + number + ': - ' + counter + ' times!')
+                }
+                
+            }
+            jsConsole.writeLine('Our array is: ' + array.join(', '));
+             
+        </script>
+    </body>
+</html>

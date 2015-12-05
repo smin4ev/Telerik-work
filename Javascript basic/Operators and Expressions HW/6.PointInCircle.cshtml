@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="abs">Enter a X Coordinate</label>
+                <input type="text" id="abs" />
+            </div>
+            <div>
+                <label for="ord">Enter a Y Coordinate</label>
+                <input type="text" id="ord" />
+            </div>
+            <div>
+                <label>Click the button to check if point(x;y) is withint the circle K(O, 5) </label>
+                <input type="button" value ="Check" onclick ="CheckPositionOfPoint()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //6.Write an expression that checks if given point (x,  y) is within a circle K(0, 5).
+            function CheckPositionOfPoint() {
+                var abs = jsConsole.read("#abs");
+                var ord = jsConsole.read("#ord");
+                var sum = Math.sqrt(abs * abs + ord * ord);
+                if (sum < 5) {
+                    jsConsole.writeLine('Point with coordinates x=' + abs + ' '+'and y=' + ord +' '+'is within a circle K(0;5)!');
+                }
+                else {
+                    jsConsole.writeLine('Point with coordinates x=' + abs + ' ' + 'and y=' + ord + ' ' + 'is NOT within a circle K(0;5)!');
+
+                }
+            }
+        </script>
+    </body>
+</html>

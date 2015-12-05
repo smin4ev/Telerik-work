@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>7. URL parse</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+
+
+    <label for="tb-text">Enter url (http://www.devbg.org/forum/index.php):  </label>
+    <input type="text" id="tb-text" />
+    <a href="#" onclick="onBtnClick()">Parse!</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        function onBtnClick() {
+
+
+            var txt = jsConsole.read("#tb-text");
+            var serverIndex = txt.indexOf(":") + 3;
+            var protocolURL = txt.substr(0, txt.indexOf(":"));
+            var serverURL = txt.substr(serverIndex, txt.indexOf("/", serverIndex) - serverIndex);
+            var resourceURL = txt.substr(txt.indexOf("/", serverIndex), txt.length - txt.indexOf("/", serverIndex));
+            var parsedUrl = {
+                protocol: protocolURL,
+                server: serverURL,
+                resource: resourceURL,
+            }
+
+
+            jsConsole.writeLine("protocol: " + parsedUrl.protocol);
+            jsConsole.writeLine("server: " + parsedUrl.server);
+            jsConsole.writeLine("resource: " + parsedUrl.resource);
+
+
+        }
+    </script>
+</body>
+</html>

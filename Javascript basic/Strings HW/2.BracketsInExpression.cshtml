@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //Write a JavaScript function to check if in a given expression the brackets are put correctly.
+            //    Example of correct expression: ((a+b)/5-d).
+            //    Example of incorrect expression: )(a+b)).
+
+            function proprietyBrackets(expression) {
+                var countOpenBracket = 0;
+                var countClosedBracket = 0;
+                for (var i = 0; i < expression.length; i++) {
+                    if (expression[i] === '(') {
+                        countOpenBracket++;
+                    }
+                    if (expression[i] === ')') {
+                        countClosedBracket++;
+                    }
+                    if (countOpenBracket < countClosedBracket) {
+                        break;
+                    }
+                }
+                if (countOpenBracket == countClosedBracket) {
+                    jsConsole.writeLine('Brackets are put correstly');
+                }
+                else {
+                    jsConsole.writeLine('Brackets are put incorrectly');
+                }
+            }
+
+            var exapleExpression1 = '((a + b) / 5 - d)';
+            var exampleExpression2 = ')(a+b))';
+
+            proprietyBrackets(exapleExpression1);
+            proprietyBrackets(exampleExpression2);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+           
+            //Write a function that finds the youngest person in a given array of persons and prints his/hers full name
+            //    Each person have properties firstname, lastname and age, as shown:
+            //  var persons = [
+            //{firstname : "Gosho", lastname: "Petrov", age: 32}, 
+            //{firstname : "Bay", lastname: "Ivan", age: 81},…];
+            function youngestPerson(array) {
+                var youngestPerson = 500;
+                var youngestPersonPosition = -1;
+
+                for (var i in array) {
+                    if (array[i].age < youngestPerson) {
+                        youngestPerson = array[i].age;
+                        youngestPersonPosition = i;
+                    }
+                }
+                jsConsole.writeLine('Youngest person is ' + array[youngestPersonPosition].firstname +
+                   ' ' + array[youngestPersonPosition].lastname + '. Age:' + array[youngestPersonPosition].age   )
+            }
+
+            var school = [
+                { firstname: 'Ivan', lastname: 'Ivanov', age: 15 },
+                { firstname: 'Ivo', lastname: 'Petrov', age: 12 },
+                { firstname: 'Mitko', lastname: 'Stoqnov', age: 8 }]
+            youngestPerson(school);
+
+        </script>
+    </body>
+</html>

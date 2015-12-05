@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="js-console">
+            <label>Click the button to see wheather 2 arrays are equal</label>
+            <input type="button" value="Check" onclick="areEqual()" />
+        </div>
+
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //2.Write a script that compares two char arrays lexicographically (letter by letter).
+            function areEqual() {
+                var firstArr = ['a', 'b', 'c', 'd', 'e', 'f'];
+                var secondArr = ['a', 'b', 'c', 'd', 'e', 'g'];
+                var isEqual = true;
+                var firstDifferentElement = 0;
+                jsConsole.writeLine('First array: arr =[' + firstArr.join(', ') + ']');
+                jsConsole.writeLine('Second array: arr =[' + secondArr.join(', ') + ']');
+                var areWithSameLenght = firstArr.length == secondArr.length;
+                jsConsole.writeLine('First: Are two array with equal length:' + ' ' + areWithSameLenght);
+                for (var i = 0; i < firstArr.length; i++) {
+                    if (firstArr[i] != secondArr[i]) {
+                        isEqual = false;
+                        firstDifferentElement = i;
+                        break;
+                    }
+                }
+                if (isEqual == true) {
+                    jsConsole.writeLine('Two arrays are equal - their elements are same');
+                }
+                else {
+                    jsConsole.write('Two arrays are with different elements! ');
+                    jsConsole.writeLine('First different elemnt is on position' + ' ' + i + "!");
+                    jsConsole.writeLine('In the first array this element is' + ' ' + "'" + firstArr[i] + "'");
+                    jsConsole.writeLine('In the second array this element is' + ' ' + "'" + secondArr[i] + "'");
+
+                }
+            }
+        </script>
+    </body>
+</html>

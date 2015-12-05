@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Digit Name</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="digit">Enter a digit(0-9)</label>
+                <input type="text" id="digit" />
+            </div>
+            <div>
+                <label>Click the button to see name of the digit</label>
+                <input type="button" value="See name" onclick="digitName()" /> 
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //5.Write script that asks for a digit and depending on the input shows the name of that digit 
+            //(in English) using a switch statement.
+            function digitName() {
+                var inputDigit = jsConsole.readFloat("#digit");
+                switch (inputDigit) {
+                    case 0: jsConsole.writeLine('zero'); break;
+                    case 1: jsConsole.writeLine('one'); break;
+                    case 2: jsConsole.writeLine('two'); break;
+                    case 3: jsConsole.writeLine('three'); break;
+                    case 4: jsConsole.writeLine('four'); break;
+                    case 5: jsConsole.writeLine('five'); break;
+                    case 6: jsConsole.writeLine('six'); break;
+                    case 7: jsConsole.writeLine('seven'); break;
+                    case 8: jsConsole.writeLine('eight'); break;
+                    case 9: jsConsole.writeLine('nine'); break;
+                    default:jsConsole.writeLine("Input isn't a digit!")
+                }
+            }
+        </script>
+    </body>
+</html>

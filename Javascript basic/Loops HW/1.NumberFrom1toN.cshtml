@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Number From 1 to N</title>
+    </head>
+    <body>
+        <div id="js-console">
+            <div>
+                <label for="number">Input the number that will be the upper limit of the row of numbers</label>
+                <input type="text" id="number" />
+            </div>
+            <div>
+                <label>Click the button to see the result</label>
+                <input type="button" value="Check" onclick="numberRow()" />
+            </div>
+        </div>
+        <script src="scripts/js-console.js"></script>
+        <script>
+            //1.Write a script that prints all the numbers from 1 to N
+            function numberRow() {
+                var number = jsConsole.readFloat("#number");
+                for (var i = 1; i < number; i++) {
+                    jsConsole.write(i+',');
+                }
+                    jsConsole.write(number);
+            }
+        </script>
+    </body>
+</html>
