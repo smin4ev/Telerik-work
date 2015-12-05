@@ -1,0 +1,51 @@
+﻿body 
+{    
+   font-family:sans-serif;
+}
+table
+{
+    
+    background-color:#91918E;
+    width:350px;
+}
+table tr th
+{
+    text-align:left;
+    font-size:25px;
+}
+a
+{
+    text-decoration:none;
+    color:#FFFF00;
+}
+a:hover
+{
+    color:#0033CC;
+}
+.white
+{
+    color:#FFFFFF;
+    font-style:italic;
+    vertical-align:top;
+    padding-top:10px;
+
+    
+}
+.yellow
+{
+    color:#FFFF00;
+}
+.grey
+{
+    color:#BFBFD4
+}
+.red
+{
+    color:#FF0000;
+}
+.orange
+{
+    color:#FF6600;
+}
+
+

@@ -1,0 +1,59 @@
+﻿body 
+{
+    background-color:#A2A2A1;
+    width:770px;
+}
+h1
+{
+    color:#FFFFFF;
+}
+header h1
+{
+    text-align:center;
+    font-size:36px;
+}
+article header h1
+{
+    font-size:24px;
+    text-align:left;
+}
+ul
+{
+    list-style-type:none;
+    text-align:center;
+}
+     ul li:last-child
+    {
+        text-decoration:underline;
+    }
+nav ul li a
+{
+    text-decoration:none;
+    color:#FFFFFF;
+    font-size:22px;
+    font-weight:bold;
+}
+footer
+{
+    text-align:center;
+}
+    footer p
+    {
+        text-align:left;
+    }
+section footer p
+{
+    font-size:12px;
+}
+footer p a
+{
+    text-decoration:none;
+    color:#000000;
+}
+.current
+{
+    background-color:#DEDEDE;
+}
+
+
+

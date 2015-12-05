@@ -1,0 +1,72 @@
+﻿body
+{
+   width:600px;
+   border:1px solid black;
+   border-radius:5px;
+   padding-bottom:5px;
+}
+nav ul li
+{
+    list-style-type:none;
+    font-weight:bold;
+    display:inline-block;
+    
+}
+    nav ul li a
+    {
+        color:#7bd5f7;
+        font-size:25px;
+    }
+img
+{
+    width:80px;
+    display:inline-block;
+    float:left;
+}
+fieldset
+{
+    display:inline-block;
+    text-align:left;
+    width:160px;
+    height:130px;
+   
+}
+section
+{
+    width:400px;
+    margin-left:10px;
+    border:2px solid black;
+    padding-bottom:10px;
+    padding-left:10px;
+}
+hr
+{
+   width:95%;
+}
+legend
+{
+   text-align:center
+}
+header
+{
+    text-align:center;
+}
+aside
+{
+    position:absolute;
+    left:460px;
+	top:190px;
+}
+    aside div
+    {
+        margin-bottom:10px;
+    }
+span
+{
+  display:inline-block;
+  margin-top:20px;
+}
+    span:last-of-type
+    {
+        padding-left:12px;
+    }

@@ -1,0 +1,40 @@
+﻿body 
+{
+    padding:0px;
+	margin:0px;
+}
+ul li
+{
+    list-style-type:none;
+
+    ul
+{
+    background-color:pink;
+}
+}
+    ul li a
+    {
+        text-decoration:none;
+        color:#000000;
+        
+    }
+        ul li a:hover
+        {
+            text-decoration:underline;
+            visibility:visible;
+        }
+    .parent ul
+    {
+        display:none;
+    }
+    .parent:hover>ul
+    {
+        display:block;
+        padding-left:10px;
+    }
+    ul li ul li a
+    {
+        color:#808080;
+    }
+
+
