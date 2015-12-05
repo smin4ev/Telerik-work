@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\bin\Debug\4.HowMenyTimeNumberInArray.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\bin\Debug\4.HowMenyTimeNumberInArray.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\bin\Debug\4.HowMenyTimeNumberInArray.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\obj\Debug\4.HowMenyTimeNumberInArray.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\obj\Debug\4.HowMenyTimeNumberInArray.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\4.HowMenyTimeNumberInArray\obj\Debug\4.HowMenyTimeNumberInArray.pdb

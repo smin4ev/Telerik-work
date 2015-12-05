@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.csprojResolveAssemblyReference.cache

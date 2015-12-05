@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\bin\Debug\20.VariationOfKElementsFromN.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\obj\Debug\20.VariationOfKElementsFromN.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\bin\Debug\20.VariationOfKElementsFromN.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\bin\Debug\20.VariationOfKElementsFromN.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\obj\Debug\20.VariationOfKElementsFromN.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\20.VariationOfKElementsFromN\obj\Debug\20.VariationOfKElementsFromN.pdb

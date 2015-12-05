@@ -1,0 +1,7 @@
+Line 1:1.proba
+Line 2:2.just file
+Line 3:3.same text
+Line 4:4.next row
+Line 5:5.tiyhbufhguhghr
+Line 6:6.continue to write
+Line 7:7.last row

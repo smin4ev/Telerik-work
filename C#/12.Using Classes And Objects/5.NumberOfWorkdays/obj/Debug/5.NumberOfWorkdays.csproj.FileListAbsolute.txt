@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\bin\Debug\5.NumberOfWorkdays.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\bin\Debug\5.NumberOfWorkdays.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\bin\Debug\5.NumberOfWorkdays.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\obj\Debug\5.NumberOfWorkdays.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\obj\Debug\5.NumberOfWorkdays.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\5.NumberOfWorkdays\obj\Debug\5.NumberOfWorkdays.pdb

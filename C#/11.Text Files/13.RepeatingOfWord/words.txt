@@ -1,0 +1,8 @@
+proba 
+car 
+break 
+finish
+tok 
+mok 
+lek 
+nek

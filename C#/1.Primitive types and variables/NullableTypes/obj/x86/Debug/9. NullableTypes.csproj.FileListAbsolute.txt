@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\NullableTypes\bin\Debug\NullableTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\NullableTypes\bin\Debug\NullableTypes.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\NullableTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\NullableTypes\obj\x86\Debug\NullableTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\NullableTypes\obj\x86\Debug\NullableTypes.pdb

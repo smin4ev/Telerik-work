@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\BooleanType\bin\Debug\BooleanType.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\BooleanType\bin\Debug\BooleanType.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\BooleanType\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\BooleanType\obj\Debug\BooleanType.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\BooleanType\obj\Debug\BooleanType.pdb

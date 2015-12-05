@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\bin\Debug\3.DurankulakNumbers.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\bin\Debug\3.DurankulakNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\bin\Debug\3.DurankulakNumbers.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\obj\Debug\3.DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\obj\Debug\3.DurankulakNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\3.DurankulakNumbers\obj\Debug\3.DurankulakNumbers.pdb

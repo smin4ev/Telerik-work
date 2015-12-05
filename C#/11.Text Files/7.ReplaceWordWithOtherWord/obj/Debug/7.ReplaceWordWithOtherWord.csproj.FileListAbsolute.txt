@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\7.ReplaceWordWithOtherWord\bin\Debug\7.ReplaceWordWithOtherWord.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\7.ReplaceWordWithOtherWord\bin\Debug\7.ReplaceWordWithOtherWord.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\7.ReplaceWordWithOtherWord\bin\Debug\7.ReplaceWordWithOtherWord.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\7.ReplaceWordWithOtherWord\obj\Debug\7.ReplaceWordWithOtherWord.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\7.ReplaceWordWithOtherWord\obj\Debug\7.ReplaceWordWithOtherWord.pdb

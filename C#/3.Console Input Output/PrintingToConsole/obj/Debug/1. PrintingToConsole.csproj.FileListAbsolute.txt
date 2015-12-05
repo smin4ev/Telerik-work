@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingToConsole\bin\Debug\PrintingToConsole.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingToConsole\bin\Debug\PrintingToConsole.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingToConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingToConsole\obj\Debug\PrintingToConsole.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingToConsole\obj\Debug\PrintingToConsole.pdb

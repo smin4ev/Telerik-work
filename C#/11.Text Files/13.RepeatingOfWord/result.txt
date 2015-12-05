@@ -1,0 +1,8 @@
+"proba " :1
+"car " :3
+"break " :2
+"finish" :0
+"tok " :0
+"mok " :0
+"lek " :0
+"nek" :0

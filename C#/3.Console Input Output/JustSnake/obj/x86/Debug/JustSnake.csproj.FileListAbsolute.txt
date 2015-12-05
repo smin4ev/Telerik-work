@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\JustSnake\bin\Debug\JustSnake.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\JustSnake\bin\Debug\JustSnake.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\JustSnake\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\JustSnake\obj\x86\Debug\JustSnake.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\JustSnake\obj\x86\Debug\JustSnake.pdb

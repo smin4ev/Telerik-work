@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\RegionalSettings\bin\Debug\RegionalSettings.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\RegionalSettings\bin\Debug\RegionalSettings.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\RegionalSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\RegionalSettings\obj\x86\Debug\RegionalSettings.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\RegionalSettings\obj\x86\Debug\RegionalSettings.pdb

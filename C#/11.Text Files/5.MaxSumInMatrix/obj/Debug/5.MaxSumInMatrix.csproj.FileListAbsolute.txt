@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\bin\Debug\5.MaxSumInMatrix.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\bin\Debug\5.MaxSumInMatrix.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\bin\Debug\5.MaxSumInMatrix.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\obj\Debug\5.MaxSumInMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\obj\Debug\5.MaxSumInMatrix.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\5.MaxSumInMatrix\obj\Debug\5.MaxSumInMatrix.pdb

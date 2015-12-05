@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\bin\Debug\1.UserName.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\bin\Debug\1.UserName.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\bin\Debug\1.UserName.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\obj\Debug\1.UserName.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\obj\Debug\1.UserName.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\1.UserName\obj\Debug\1.UserName.pdb

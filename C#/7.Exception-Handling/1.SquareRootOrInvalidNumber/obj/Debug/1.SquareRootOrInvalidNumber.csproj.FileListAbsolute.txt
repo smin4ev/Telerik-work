@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\bin\Debug\1.SquareRootOrInvalidNumber.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\bin\Debug\1.SquareRootOrInvalidNumber.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\bin\Debug\1.SquareRootOrInvalidNumber.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\obj\Debug\1.SquareRootOrInvalidNumber.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\obj\Debug\1.SquareRootOrInvalidNumber.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\1.SquareRootOrInvalidNumber\obj\Debug\1.SquareRootOrInvalidNumber.pdb

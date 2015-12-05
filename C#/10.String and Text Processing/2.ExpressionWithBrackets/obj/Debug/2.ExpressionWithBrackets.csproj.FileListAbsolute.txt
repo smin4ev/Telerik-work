@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\bin\Debug\2.ExpressionWithBrackets.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\bin\Debug\2.ExpressionWithBrackets.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\bin\Debug\2.ExpressionWithBrackets.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\obj\Debug\2.ExpressionWithBrackets.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\obj\Debug\2.ExpressionWithBrackets.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\2.ExpressionWithBrackets\obj\Debug\2.ExpressionWithBrackets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\Expressions\bin\Debug\Expressions.exe
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\Expressions\bin\Debug\Expressions.pdb
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\Expressions\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\Expressions\obj\Debug\Expressions.exe
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\Expressions\obj\Debug\Expressions.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\16.DateInGivenFormatAndDateAfter\bin\Debug\16.DateInGivenFormatAndDateAfter.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\16.DateInGivenFormatAndDateAfter\bin\Debug\16.DateInGivenFormatAndDateAfter.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\16.DateInGivenFormatAndDateAfter\bin\Debug\16.DateInGivenFormatAndDateAfter.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\16.DateInGivenFormatAndDateAfter\obj\Debug\16.DateInGivenFormatAndDateAfter.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\16.DateInGivenFormatAndDateAfter\obj\Debug\16.DateInGivenFormatAndDateAfter.pdb

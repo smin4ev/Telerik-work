@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\6.EncodeAndDecodeTextWithKey\bin\Debug\6.EncodeAndDecodeTextWithKey.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\6.EncodeAndDecodeTextWithKey\bin\Debug\6.EncodeAndDecodeTextWithKey.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\6.EncodeAndDecodeTextWithKey\bin\Debug\6.EncodeAndDecodeTextWithKey.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\6.EncodeAndDecodeTextWithKey\obj\Debug\6.EncodeAndDecodeTextWithKey.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\6.EncodeAndDecodeTextWithKey\obj\Debug\6.EncodeAndDecodeTextWithKey.pdb

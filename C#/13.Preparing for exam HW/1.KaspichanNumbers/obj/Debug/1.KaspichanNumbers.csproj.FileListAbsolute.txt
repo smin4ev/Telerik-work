@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Power\bin\Debug\Power.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Power\bin\Debug\Power.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Power\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Power\obj\Debug\Power.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Power\obj\Debug\Power.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\3.LastDigitAsEnglishWord\bin\Debug\3.LastDigitAsEnglishWord.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\3.LastDigitAsEnglishWord\bin\Debug\3.LastDigitAsEnglishWord.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\3.LastDigitAsEnglishWord\bin\Debug\3.LastDigitAsEnglishWord.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\3.LastDigitAsEnglishWord\obj\Debug\3.LastDigitAsEnglishWord.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\3.LastDigitAsEnglishWord\obj\Debug\3.LastDigitAsEnglishWord.pdb

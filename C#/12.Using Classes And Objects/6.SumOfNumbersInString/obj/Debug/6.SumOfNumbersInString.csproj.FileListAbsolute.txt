@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\bin\Debug\6.SumOfNumbersInString.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\obj\Debug\6.SumOfNumbersInString.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\obj\Debug\6.SumOfNumbersInString.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\6.SumOfNumbersInString\obj\Debug\6.SumOfNumbersInString.pdb

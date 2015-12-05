@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Toto\bin\Debug\Toto.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Toto\bin\Debug\Toto.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Toto\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Toto\obj\Debug\Toto.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Toto\obj\Debug\Toto.pdb

@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\bin\Debug\10.CalculateN!.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\bin\Debug\10.CalculateN!.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\bin\Debug\10.CalculateN!.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\obj\Debug\10.CalculateN!.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\obj\Debug\10.CalculateN!.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\10.CalculateN!\obj\Debug\10.CalculateN!.pdb

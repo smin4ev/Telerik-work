@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\7.ExtractSentencesFromText\bin\Debug\7.ExtractSentencesFromText.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\7.ExtractSentencesFromText\bin\Debug\7.ExtractSentencesFromText.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\7.ExtractSentencesFromText\bin\Debug\7.ExtractSentencesFromText.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\7.ExtractSentencesFromText\obj\Debug\7.ExtractSentencesFromText.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\7.ExtractSentencesFromText\obj\Debug\7.ExtractSentencesFromText.pdb

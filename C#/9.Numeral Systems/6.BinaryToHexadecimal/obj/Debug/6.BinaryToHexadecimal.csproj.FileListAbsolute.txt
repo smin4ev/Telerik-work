@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.pdb

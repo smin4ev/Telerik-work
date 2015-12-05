@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Sum\bin\Debug\Sum.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Sum\bin\Debug\Sum.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Sum\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Sum\obj\Debug\Sum.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Sum\obj\Debug\Sum.pdb

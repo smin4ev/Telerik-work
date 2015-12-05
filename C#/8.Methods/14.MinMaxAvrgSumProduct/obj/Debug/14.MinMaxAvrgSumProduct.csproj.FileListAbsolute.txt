@@ -1,0 +1,8 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\bin\Debug\14.MinMaxAvrgSumProduct.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\bin\Debug\14.MinMaxAvrgSumProduct.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\bin\Debug\14.MinMaxAvrgSumProduct.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\obj\Debug\14.MinMaxAvrgSumProduct.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\obj\Debug\14.MinMaxAvrgSumProduct.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\obj\Debug\14.MinMaxAvrgSumProduct.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\bin\Debug\13.MultifunctionalTask.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\14.MinMaxAvrgSumProduct\bin\Debug\13.MultifunctionalTask.pdb

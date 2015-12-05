@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\bin\Debug\1.DeciamalToBinary.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\obj\Debug\1.DeciamalToBinary.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\bin\Debug\1.DeciamalToBinary.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\bin\Debug\1.DeciamalToBinary.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\obj\Debug\1.DeciamalToBinary.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\1.DeciamalToBinary\obj\Debug\1.DeciamalToBinary.pdb

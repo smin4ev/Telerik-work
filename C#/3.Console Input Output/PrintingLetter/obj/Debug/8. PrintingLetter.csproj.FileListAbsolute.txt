@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingLetter\bin\Debug\PrintingLetter.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingLetter\bin\Debug\PrintingLetter.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingLetter\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingLetter\obj\Debug\PrintingLetter.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\PrintingLetter\obj\Debug\PrintingLetter.pdb

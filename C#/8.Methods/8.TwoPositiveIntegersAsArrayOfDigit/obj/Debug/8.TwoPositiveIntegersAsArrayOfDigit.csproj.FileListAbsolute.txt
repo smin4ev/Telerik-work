@@ -1,0 +1,8 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\bin\Debug\8.TwoPositiveIntegersAsArrayOfDigit.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\bin\Debug\8.TwoPositiveIntegersAsArrayOfDigit.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\bin\Debug\8.TwoPositiveIntegersAsArrayOfDigit.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\bin\Debug\7.ReverseDigitOfNumber.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\bin\Debug\7.ReverseDigitOfNumber.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\obj\Debug\8.TwoPositiveIntegersAsArrayOfDigit.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\obj\Debug\8.TwoPositiveIntegersAsArrayOfDigit.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\8.TwoPositiveIntegersAsArrayOfDigit\obj\Debug\8.TwoPositiveIntegersAsArrayOfDigit.pdb

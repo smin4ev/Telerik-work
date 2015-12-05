@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.pdb

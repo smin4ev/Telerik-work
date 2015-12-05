@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\ReadingStrings\bin\Debug\ReadingStrings.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\ReadingStrings\bin\Debug\ReadingStrings.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\ReadingStrings\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\ReadingStrings\obj\Debug\ReadingStrings.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\ReadingStrings\obj\Debug\ReadingStrings.pdb

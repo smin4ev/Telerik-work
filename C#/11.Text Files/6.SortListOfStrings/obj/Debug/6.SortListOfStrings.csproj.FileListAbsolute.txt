@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\bin\Debug\6.SortListOfStrings.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\bin\Debug\6.SortListOfStrings.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\bin\Debug\6.SortListOfStrings.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\obj\Debug\6.SortListOfStrings.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\obj\Debug\6.SortListOfStrings.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\6.SortListOfStrings\obj\Debug\6.SortListOfStrings.pdb

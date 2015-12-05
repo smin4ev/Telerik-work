@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\CalculatingArea\bin\Debug\CalculatingArea.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\CalculatingArea\bin\Debug\CalculatingArea.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\CalculatingArea\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\CalculatingArea\obj\Debug\CalculatingArea.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\CalculatingArea\obj\Debug\CalculatingArea.pdb

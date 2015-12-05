@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\bin\Debug\1.AllocateArrayOf20Integers.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\bin\Debug\1.AllocateArrayOf20Integers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\bin\Debug\1.AllocateArrayOf20Integers.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\obj\Debug\1.AllocateArrayOf20Integers.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\obj\Debug\1.AllocateArrayOf20Integers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1.AllocateArrayOf20Integers\obj\Debug\1.AllocateArrayOf20Integers.pdb

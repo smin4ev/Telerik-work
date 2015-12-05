@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\bin\Debug\5.MaximalSequenseOfIncreasingElements.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\bin\Debug\5.MaximalSequenseOfIncreasingElements.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\bin\Debug\5.MaximalSequenseOfIncreasingElements.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\obj\Debug\5.MaximalSequenseOfIncreasingElements.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\obj\Debug\5.MaximalSequenseOfIncreasingElements.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\5.MaximalSequenseOfIncreasingElements\obj\Debug\5.MaximalSequenseOfIncreasingElements.pdb

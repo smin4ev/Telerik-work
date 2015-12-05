@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\bin\Debug\7.ReverseDigitOfNumber.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\bin\Debug\7.ReverseDigitOfNumber.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\bin\Debug\7.ReverseDigitOfNumber.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\obj\Debug\7.ReverseDigitOfNumber.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\obj\Debug\7.ReverseDigitOfNumber.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\7.ReverseDigitOfNumber\obj\Debug\7.ReverseDigitOfNumber.pdb

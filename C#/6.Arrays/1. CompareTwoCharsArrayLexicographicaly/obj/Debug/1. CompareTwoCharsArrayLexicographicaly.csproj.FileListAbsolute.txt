@@ -1,0 +1,1 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\1. CompareTwoCharsArrayLexicographicaly\bin\Debug\_1.CompareTwoCharsArrayLexicographicaly.exe.config

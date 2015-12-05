@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\2.Generate10RandomNumbers\bin\Debug\2.Generate10RandomNumbers.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\2.Generate10RandomNumbers\bin\Debug\2.Generate10RandomNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\2.Generate10RandomNumbers\bin\Debug\2.Generate10RandomNumbers.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\2.Generate10RandomNumbers\obj\Debug\2.Generate10RandomNumbers.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\2.Generate10RandomNumbers\obj\Debug\2.Generate10RandomNumbers.pdb

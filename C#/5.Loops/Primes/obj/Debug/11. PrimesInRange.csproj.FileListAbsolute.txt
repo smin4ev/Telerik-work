@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Primes\bin\Debug\Primes.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Primes\bin\Debug\Primes.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Primes\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Primes\obj\Debug\Primes.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Primes\obj\Debug\Primes.pdb

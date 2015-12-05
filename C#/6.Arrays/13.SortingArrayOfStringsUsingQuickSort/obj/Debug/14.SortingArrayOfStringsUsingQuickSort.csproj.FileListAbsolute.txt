@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\13.SortingArrayOfStringsUsingQuickSort\bin\Debug\13.SortingArrayOfStringsUsingQuickSort.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\13.SortingArrayOfStringsUsingQuickSort\obj\Debug\13.SortingArrayOfStringsUsingQuickSort.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\13.SortingArrayOfStringsUsingQuickSort\obj\Debug\13.SortingArrayOfStringsUsingQuickSort.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\13.SortingArrayOfStringsUsingQuickSort\bin\Debug\13.SortingArrayOfStringsUsingQuickSort.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\13.SortingArrayOfStringsUsingQuickSort\bin\Debug\13.SortingArrayOfStringsUsingQuickSort.pdb

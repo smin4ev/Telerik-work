@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\Characters\bin\Debug\Characters.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\Characters\bin\Debug\Characters.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\Characters\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\Characters\obj\Debug\Characters.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\Characters\obj\Debug\Characters.pdb

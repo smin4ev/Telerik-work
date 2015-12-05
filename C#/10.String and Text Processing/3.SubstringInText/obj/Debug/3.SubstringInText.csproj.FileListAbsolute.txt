@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\3.SubstringInText\bin\Debug\3.SubstringInText.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\3.SubstringInText\bin\Debug\3.SubstringInText.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\3.SubstringInText\bin\Debug\3.SubstringInText.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\3.SubstringInText\obj\Debug\3.SubstringInText.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\3.SubstringInText\obj\Debug\3.SubstringInText.pdb

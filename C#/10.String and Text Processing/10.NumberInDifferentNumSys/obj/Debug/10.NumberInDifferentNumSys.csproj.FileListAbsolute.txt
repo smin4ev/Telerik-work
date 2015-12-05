@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\10.NumberInDifferentNumSys\bin\Debug\10.NumberInDifferentNumSys.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\10.NumberInDifferentNumSys\bin\Debug\10.NumberInDifferentNumSys.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\10.NumberInDifferentNumSys\bin\Debug\10.NumberInDifferentNumSys.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\10.NumberInDifferentNumSys\obj\Debug\10.NumberInDifferentNumSys.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\StringAndTextProcessingHW\StringAndTextProcessing\10.NumberInDifferentNumSys\obj\Debug\10.NumberInDifferentNumSys.pdb

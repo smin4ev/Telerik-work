@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\8.Like7ButForWholeWords\bin\Debug\8.Like7ButForWholeWords.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\8.Like7ButForWholeWords\bin\Debug\8.Like7ButForWholeWords.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\8.Like7ButForWholeWords\bin\Debug\8.Like7ButForWholeWords.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\8.Like7ButForWholeWords\obj\Debug\8.Like7ButForWholeWords.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\8.Like7ButForWholeWords\obj\Debug\8.Like7ButForWholeWords.pdb

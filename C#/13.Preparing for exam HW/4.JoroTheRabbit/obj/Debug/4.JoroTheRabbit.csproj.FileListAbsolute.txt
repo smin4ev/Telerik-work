@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\bin\Debug\4.JoroTheRabbit.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\bin\Debug\4.JoroTheRabbit.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\bin\Debug\4.JoroTheRabbit.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\obj\Debug\4.JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\obj\Debug\4.JoroTheRabbit.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\4.JoroTheRabbit\obj\Debug\4.JoroTheRabbit.pdb

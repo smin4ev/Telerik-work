@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\NestedIf\bin\Debug\NestedIf.exe
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\NestedIf\bin\Debug\NestedIf.pdb
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\NestedIf\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\NestedIf\obj\Debug\NestedIf.exe
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\NestedIf\obj\Debug\NestedIf.pdb

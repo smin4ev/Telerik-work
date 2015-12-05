@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\IntegerTypes\bin\Debug\IntegerTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\IntegerTypes\bin\Debug\IntegerTypes.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\IntegerTypes\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\IntegerTypes\obj\Debug\IntegerTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\IntegerTypes\obj\Debug\IntegerTypes.pdb

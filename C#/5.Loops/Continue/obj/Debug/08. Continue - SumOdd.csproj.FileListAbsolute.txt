@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Continue\bin\Debug\Continue.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Continue\bin\Debug\Continue.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Continue\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Continue\obj\Debug\Continue.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Continue\obj\Debug\Continue.pdb

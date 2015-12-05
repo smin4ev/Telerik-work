@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.pdb

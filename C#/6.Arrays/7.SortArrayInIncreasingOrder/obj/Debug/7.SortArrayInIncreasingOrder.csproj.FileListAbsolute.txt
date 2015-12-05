@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\bin\Debug\7.SortArrayInIncreasingOrder.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\bin\Debug\7.SortArrayInIncreasingOrder.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\bin\Debug\7.SortArrayInIncreasingOrder.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\obj\Debug\7.SortArrayInIncreasingOrder.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\obj\Debug\7.SortArrayInIncreasingOrder.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\7.SortArrayInIncreasingOrder\obj\Debug\7.SortArrayInIncreasingOrder.pdb

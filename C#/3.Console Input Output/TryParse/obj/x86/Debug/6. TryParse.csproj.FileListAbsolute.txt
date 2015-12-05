@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\TryParse\bin\Debug\TryParse.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\TryParse\bin\Debug\TryParse.pdb
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\TryParse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\TryParse\obj\x86\Debug\TryParse.exe
+D:\Telerik kursove\C# kurs\C# - част I\4. Вход и изход от конзолата\TryParse\obj\x86\Debug\TryParse.pdb

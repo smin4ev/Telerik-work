@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\bin\Debug\7.FromAnyToAnyNumeralSystem.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\bin\Debug\7.FromAnyToAnyNumeralSystem.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\bin\Debug\7.FromAnyToAnyNumeralSystem.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\obj\Debug\7.FromAnyToAnyNumeralSystem.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\obj\Debug\7.FromAnyToAnyNumeralSystem.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Numeral SystemsHW\Numeral Systems\7.FromAnyToAnyNumeralSystem\obj\Debug\7.FromAnyToAnyNumeralSystem.pdb

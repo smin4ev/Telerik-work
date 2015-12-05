@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\bin\Debug\3.EnterFileNameAndPrintExeptions.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\bin\Debug\3.EnterFileNameAndPrintExeptions.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\bin\Debug\3.EnterFileNameAndPrintExeptions.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\obj\Debug\3.EnterFileNameAndPrintExeptions.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\obj\Debug\3.EnterFileNameAndPrintExeptions.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Exception-HandlingHW\Solution1\3.EnterFileNameAndPrintExeptions\obj\Debug\3.EnterFileNameAndPrintExeptions.pdb

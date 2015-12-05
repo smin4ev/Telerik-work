@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\bin\Debug\3.NumerationOfLinesInNewFile.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\bin\Debug\3.NumerationOfLinesInNewFile.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\bin\Debug\3.NumerationOfLinesInNewFile.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\obj\Debug\3.NumerationOfLinesInNewFile.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\obj\Debug\3.NumerationOfLinesInNewFile.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\3.NumerationOfLinesInNewFile\obj\Debug\3.NumerationOfLinesInNewFile.pdb

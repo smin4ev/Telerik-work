@@ -1,0 +1,8 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\bin\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\obj\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\bin\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\bin\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\bin\Debug\5.ElementsInArrayAndItsNeighbors.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\bin\Debug\5.ElementsInArrayAndItsNeighbors.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\obj\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\6.FirstElementInArrayBiggerThanItsNeigbour\obj\Debug\6.FirstElementInArrayBiggerThanItsNeigbour.pdb

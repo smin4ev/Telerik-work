@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\12.SubtractionAndMultiplicationOfTwoPolinomials\bin\Debug\12.SubtractionAndMultiplicationOfTwoPolinomials.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\12.SubtractionAndMultiplicationOfTwoPolinomials\bin\Debug\12.SubtractionAndMultiplicationOfTwoPolinomials.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\12.SubtractionAndMultiplicationOfTwoPolinomials\bin\Debug\12.SubtractionAndMultiplicationOfTwoPolinomials.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\12.SubtractionAndMultiplicationOfTwoPolinomials\obj\Debug\12.SubtractionAndMultiplicationOfTwoPolinomials.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\MethodsHW\Methods\12.SubtractionAndMultiplicationOfTwoPolinomials\obj\Debug\12.SubtractionAndMultiplicationOfTwoPolinomials.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\IfStatementExample\bin\Debug\IfStatementExample.exe
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\IfStatementExample\bin\Debug\IfStatementExample.pdb
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\IfStatementExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\IfStatementExample\obj\Debug\IfStatementExample.exe
+D:\Telerik kursove\C# kurs\C# - част I\5. Условни конструкции\IfStatementExample\obj\Debug\IfStatementExample.pdb

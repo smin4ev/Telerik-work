@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Foreach\bin\Debug\Foreach.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Foreach\bin\Debug\Foreach.pdb
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Foreach\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Foreach\obj\Debug\Foreach.exe
+D:\Telerik kursove\C# kurs\C# - част I\6. Цикли\Foreach\obj\Debug\Foreach.pdb

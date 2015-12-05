@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\bin\Debug\10.ExtractFromFile.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\obj\Debug\10.ExtractFromFile.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\bin\Debug\10.ExtractFromFile.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\bin\Debug\10.ExtractFromFile.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\obj\Debug\10.ExtractFromFile.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\10.ExtractFromFile\obj\Debug\10.ExtractFromFile.pdb

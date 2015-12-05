@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\obj\Debug\9.DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\obj\Debug\9.DeleteOddLines.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\TextFilesHW\TextFiles\9.DeleteOddLines\obj\Debug\9.DeleteOddLines.pdb

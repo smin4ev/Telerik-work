@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\bin\Debug\4.CalculateSurfaceOfTriangle.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\bin\Debug\4.CalculateSurfaceOfTriangle.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\bin\Debug\4.CalculateSurfaceOfTriangle.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\obj\Debug\4.CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\obj\Debug\4.CalculateSurfaceOfTriangle.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\4.CalculateSurfaceOfTriangle\obj\Debug\4.CalculateSurfaceOfTriangle.pdb

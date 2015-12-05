@@ -1,0 +1,21 @@
+﻿using System;
+
+class ConvertToUnicode
+{
+
+    //Write a program that converts a string to a sequence of C# Unicode character literals. Use format strings. Sample input:
+    //Hi!
+    //Expected output:
+    //\u0048\u0069\u0021
+
+
+    static void Main()
+    {
+        string str = @"Hi!";
+
+        foreach (var symbol in str)
+        {
+            Console.WriteLine("\\u{0:X4}", (int)symbol);
+        }
+    }
+}

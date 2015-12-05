@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\AssigningValues\bin\Debug\AssigningValues.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\AssigningValues\bin\Debug\AssigningValues.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\AssigningValues\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\AssigningValues\obj\Debug\AssigningValues.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\AssigningValues\obj\Debug\AssigningValues.pdb

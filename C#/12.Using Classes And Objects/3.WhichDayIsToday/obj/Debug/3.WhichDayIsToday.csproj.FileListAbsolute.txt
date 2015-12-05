@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\bin\Debug\3.WhichDayIsToday.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\UsingClassesAndObjectHW\UsingClassesAndObjects\3.WhichDayIsToday\obj\Debug\3.WhichDayIsToday.pdb

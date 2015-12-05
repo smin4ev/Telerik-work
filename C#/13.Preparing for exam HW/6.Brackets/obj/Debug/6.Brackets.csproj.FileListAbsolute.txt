@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\bin\Debug\6.Brackets.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\bin\Debug\6.Brackets.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\bin\Debug\6.Brackets.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\obj\Debug\6.Brackets.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\obj\Debug\6.Brackets.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\Подготовка за ИзпитHW\PreparingForExam\6.Brackets\obj\Debug\6.Brackets.pdb

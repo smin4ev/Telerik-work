@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.exe.config
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\bin\Debug\6.MaxSumOfKElementsInArray.pdb
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.exe
+D:\Telerik kursove\C# kurs\C# - част II\Homeweorks Prolet 2013\ArraysHW\6.MaxSumOfKElementsInArray\obj\Debug\6.MaxSumOfKElementsInArray.pdb

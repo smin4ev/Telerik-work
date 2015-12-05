@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\FloatingPointTypes\bin\Debug\FloatingPointTypes.pdb
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\FloatingPointTypes\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\FloatingPointTypes\obj\Debug\FloatingPointTypes.exe
+D:\Telerik kursove\C# kurs\C# - част I\2. Примитивни типове данни и променливи\FloatingPointTypes\obj\Debug\FloatingPointTypes.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\LogicalOperators\bin\Debug\LogicalOperators.exe
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\LogicalOperators\bin\Debug\LogicalOperators.pdb
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\LogicalOperators\obj\Debug\ResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\LogicalOperators\obj\Debug\LogicalOperators.exe
+D:\Telerik kursove\C# kurs\C# - част I\3. Оператори и изрази\LogicalOperators\obj\Debug\LogicalOperators.pdb
