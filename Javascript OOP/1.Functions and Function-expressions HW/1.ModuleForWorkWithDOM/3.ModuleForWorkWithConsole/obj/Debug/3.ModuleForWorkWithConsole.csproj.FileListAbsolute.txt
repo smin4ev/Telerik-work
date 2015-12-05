@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\3.ModuleForWorkWithConsole\bin\3.ModuleForWorkWithConsole.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\3.ModuleForWorkWithConsole\bin\3.ModuleForWorkWithConsole.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\3.ModuleForWorkWithConsole\obj\Debug\3.ModuleForWorkWithConsole.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\3.ModuleForWorkWithConsole\obj\Debug\3.ModuleForWorkWithConsole.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\3.ModuleForWorkWithConsole\obj\Debug\3.ModuleForWorkWithConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\2.ModuleWorkWithMovingDivNodes\bin\2.ModuleWorkWithMovingDivNodes.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\2.ModuleWorkWithMovingDivNodes\bin\2.ModuleWorkWithMovingDivNodes.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\2.ModuleWorkWithMovingDivNodes\obj\Debug\2.ModuleWorkWithMovingDivNodes.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\2.ModuleWorkWithMovingDivNodes\obj\Debug\2.ModuleWorkWithMovingDivNodes.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\2.ModuleWorkWithMovingDivNodes\obj\Debug\2.ModuleWorkWithMovingDivNodes.pdb

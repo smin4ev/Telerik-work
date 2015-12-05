@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script OOP\Homeworks\2.Classical - OOP HW\ModuleForDrowingShapes\ModuleForDrowingShapes\bin\ModuleForDrowingShapes.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\2.Classical - OOP HW\ModuleForDrowingShapes\ModuleForDrowingShapes\bin\ModuleForDrowingShapes.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\2.Classical - OOP HW\ModuleForDrowingShapes\ModuleForDrowingShapes\obj\Debug\ModuleForDrawingShapes.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script OOP\Homeworks\2.Classical - OOP HW\ModuleForDrowingShapes\ModuleForDrowingShapes\obj\Debug\ModuleForDrowingShapes.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\2.Classical - OOP HW\ModuleForDrowingShapes\ModuleForDrowingShapes\obj\Debug\ModuleForDrowingShapes.pdb

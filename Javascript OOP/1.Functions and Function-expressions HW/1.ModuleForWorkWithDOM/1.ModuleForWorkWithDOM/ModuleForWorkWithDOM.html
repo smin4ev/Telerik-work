@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Module For Work With DOM</title>
+    <script src="script.js"></script>
+    <style>
+        div
+        {
+            background:red;
+        }
+        .special
+        {
+            background:blue;
+        }
+    </style>
+</head>
+<body>
+   <div id="wrapper"></div>
+    <ul>
+        <li class="select">Text 1</li>
+        <li>Text 2</li>
+        <li>Text 3</li>
+        <li>Text 4</li>
+    </ul>
+    <script>
+        var BUFFER_SIZE = 100;
+        var div = document.createElement('div');
+        div.className = 'special';
+        div.innerHTML = 'Some text here in div element!';
+        domModule.appendChild(div, 'body');
+        
+        domModule.removeChild('ul', "li:last-child");
+
+        domModule.addHandler('li.select', 'click', function () {
+            alert("WOW");
+        });
+
+        for (var i = 0; i < BUFFER_SIZE; i++) {
+            domModule.appendToBuffer("#wrapper", div.cloneNode(true));
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\1.ModuleForWorkWithDOM\bin\1.ModuleForWorkWithDOM.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\1.ModuleForWorkWithDOM\bin\1.ModuleForWorkWithDOM.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\1.ModuleForWorkWithDOM\obj\Debug\1.ModuleForWorkWithDOM.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\1.ModuleForWorkWithDOM\obj\Debug\1.ModuleForWorkWithDOM.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\1.Functions and Function-expressions HW\1.ModuleForWorkWithDOM\1.ModuleForWorkWithDOM\obj\Debug\1.ModuleForWorkWithDOM.pdb

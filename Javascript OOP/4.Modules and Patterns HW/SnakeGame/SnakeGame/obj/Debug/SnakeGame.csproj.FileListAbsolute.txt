@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script OOP\Homeworks\4.Modules and Patterns HW\SnakeGame\SnakeGame\bin\SnakeGame.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\4.Modules and Patterns HW\SnakeGame\SnakeGame\bin\SnakeGame.pdb
+D:\Telerik kursove\Java Script OOP\Homeworks\4.Modules and Patterns HW\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script OOP\Homeworks\4.Modules and Patterns HW\SnakeGame\SnakeGame\obj\Debug\SnakeGame.dll
+D:\Telerik kursove\Java Script OOP\Homeworks\4.Modules and Patterns HW\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
