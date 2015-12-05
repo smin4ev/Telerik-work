@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\bin\Debug\4.DeleteAlbum.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\bin\Debug\4.DeleteAlbum.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\bin\Debug\4.DeleteAlbum.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\obj\Debug\4.DeleteAlbum.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\obj\Debug\4.DeleteAlbum.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\4.DeleteAlbum\obj\Debug\4.DeleteAlbum.csprojResolveAssemblyReference.cache

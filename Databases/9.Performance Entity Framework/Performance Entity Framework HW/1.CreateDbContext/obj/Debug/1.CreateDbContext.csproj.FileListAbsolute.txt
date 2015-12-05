@@ -1,0 +1,10 @@
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\1.CreateDbContext.dll.config
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\1.CreateDbContext.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\1.CreateDbContext.pdb
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\EntityFramework.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\EntityFramework.xml
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\obj\Debug\1.CreateDbContext.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\obj\Debug\1.CreateDbContext.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\1.CreateDbContext\obj\Debug\1.CreateDbContext.pdb

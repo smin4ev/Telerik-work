@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students name="Studnets" xmlns:students="urn:students">
+  <student>
+    <name>Nakov</name>
+    <sex>Male</sex>
+    <birthdate>1980-06-19</birthdate>
+    <phone>0888888888</phone>
+    <email>s.nakov@abv.com</email>
+    <course>Programing</course>
+    <specialty>Java</specialty>
+    <facultyNumber>111206107</facultyNumber>
+    <exams>
+      <exam>
+        <examName>BasicPrograming</examName>
+        <tutor>prof.Marinov</tutor>
+        <score>5.80</score>
+      </exam>
+      <exam>
+        <examName>C#1</examName>
+        <tutor>prof.Ivanov</tutor>
+        <score>5.20</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <date>2014-09-15</date>
+      <score>5.00</score>
+    </enrollment>
+  </student>
+  <student>
+    <name>Kostov</name>
+    <sex>Male</sex>
+    <birthdate>1990-06-21</birthdate>
+    <phone>0777777777</phone>
+    <email>n.kostov@abv.bg</email>
+    <course>Music</course>
+    <specialty>Classic music</specialty>
+    <facultyNumber>123321123</facultyNumber>
+    <exams>
+      <exam>
+        <examName>Biology</examName>
+        <tutor>prof.Petrov</tutor>
+        <score>4.00</score>
+      </exam>
+      <exam>
+        <examName>Math</examName>
+        <tutor>prof.Trifovon</tutor>
+        <score>6.00</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <date>2014-09-15</date>
+      <score>5.00</score>
+    </enrollment>
+  </student>
+</students>
+
+
+
+

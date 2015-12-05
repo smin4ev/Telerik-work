@@ -1,0 +1,10 @@
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\obj\Debug\StudentSystemHW.Model.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\StudentSystemHW.Model.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\StudentSystemHW.Model.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\obj\Debug\StudentSystemHW.Model.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\obj\Debug\StudentSystemHW.Model.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\StudentSystemHW.Model.dll.config
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\EntityFramework.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\EntityFramework.xml
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Model\bin\Debug\EntityFramework.SqlServer.xml

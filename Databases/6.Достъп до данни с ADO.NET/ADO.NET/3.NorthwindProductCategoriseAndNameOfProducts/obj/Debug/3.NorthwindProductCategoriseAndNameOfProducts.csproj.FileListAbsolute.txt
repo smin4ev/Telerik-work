@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\bin\Debug\3.NorthwindProductCategoriseAndNameOfProducts.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\bin\Debug\3.NorthwindProductCategoriseAndNameOfProducts.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\bin\Debug\3.NorthwindProductCategoriseAndNameOfProducts.pdb
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\obj\Debug\3.NorthwindProductCategoriseAndNameOfProducts.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\obj\Debug\3.NorthwindProductCategoriseAndNameOfProducts.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\3.NorthwindProductCategoriseAndNameOfProducts\obj\Debug\3.NorthwindProductCategoriseAndNameOfProducts.pdb

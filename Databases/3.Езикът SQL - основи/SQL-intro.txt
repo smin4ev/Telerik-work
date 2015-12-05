@@ -1,0 +1,157 @@
+1.What is SQL? What is DML? What is DDL? Recite the most important SQL commands.
+ -SQL - Structure Query Language -  is a special-purpose programming language designed for managing data held 
+	in a relational database management system (RDBMS).	
+ -DML - Data Manipulation Language  - is a family of syntax elements similar to a computer programming language 
+	used for selecting, inserting, deleting and updating data in a database
+ -DDL - Data Definition Language - is a syntax similar to a computer programming language for defining data 
+	structures, especially database schemas.
+	
+	DML SQL commands - SELECT,  INSERT,  UPDATE and  DELETE.
+	DDL SQL commands - CREATE, ALTER, DROP, RENAME and TRUNCATE.
+
+
+2.What is Transact-SQL (T-SQL)?
+ T-SQL (Transact SQL) is an extension to the standard SQL language.T-SQL is the standard language used in MS SQL Server
+ T-SQL Supports if statements, loops, exceptions.T-SQL is used for writing stored procedures, functions, triggers, etc.
+
+3.Start SQL Management Studio and connect to the database TelerikAcademy. Examine the major tables in the 
+ "TelerikAcademy" database. - Òóê íÿìà íèùî çà ïèñàíå:)!
+
+4.Write a SQL query to find all information about all departments (use "TelerikAcademy" database).
+
+ SELECT *
+ FROM [TelerikAcademy].[dbo].[Department]
+
+5.Write a SQL query to find all department names.
+
+ SELECT Name
+ FROM [TelerikAcademy].[dbo].[Departments] 
+
+6.Write a SQL query to find the salary of each employee.
+
+ SELECT FirstName + ' ' + LastName AS Name, Salary
+ FROM [TelerikAcademy].[dbo].[Employees] 
+
+7.Write a SQL to find the full name of each employee.
+ 
+ SELECT FirstName + ' ' + LastName AS [Full Name]
+ FROM [TelerikAcademy].[dbo].[Employees] 
+
+8.Write a SQL query to find the email addresses of each employee (by his first and last name). 
+  Consider that the mail domain is telerik.com. Emails should look like “John.Doe@telerik.com". 
+  The produced column should be named "Full Email Addresses".
+
+ SELECT FirstName + '.' + LastName + '@telerik.com' AS [Full Email Address]
+ FROM [TelerikAcademy].[dbo].[Employees]
+
+9.Write a SQL query to find all different employee salaries.
+   SELECT
+   DISTINCT Salary
+   FROM [TelerikAcademy].[dbo].[Employees]  
+
+10.Write a SQL query to find all information about the employees whose job title is “Sales Representative“.
+
+ SELECT *
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE JobTitle = 'Sales Representative'
+
+11.Write a SQL query to find the names of all employees whose first name starts with "SA".
+
+ SELECT FirstName
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE FirstName LIKE 'Sa%'
+
+12.Write a SQL query to find the names of all employees whose last name contains "ei".
+
+ SELECT LastName
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE LastName LIKE '%Ei%'
+
+13.Write a SQL query to find the salary of all employees whose salary is in the range [20000…30000].
+
+ SELECT FirstName, LastName, Salary
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE Salary BETWEEN 20000 AND 30000
+
+14.Write a SQL query to find the names of all employees whose salary is 25000, 14000, 12500 or 23600.
+
+ SELECT FirstName, LastName, Salary
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE Salary IN (25000, 14000, 12500, 23600)
+
+15. Write a SQL query to find all employees that do not have manager.
+
+ SELECT FirstName, LastName
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE ManagerID IS NULL
+
+16.Write a SQL query to find all employees that have salary more than 50000. 
+   Order them in decreasing order by salary.
+
+ SELECT FirstName, LastName, Salary
+ FROM [TelerikAcademy].[dbo].[Employees]
+ WHERE Salary > 50000 
+ ORDER BY Salary DESC
+
+17.Write a SQL query to find the top 5 best paid employees.
+
+ SELECT TOP 5 Salary, FirstName, LastName
+ FROM [TelerikAcademy].[dbo].[Employees]
+ ORDER BY Salary DESC
+
+18.Write a SQL query to find all employees along with their address. Use inner join with ON clause.
+
+ SELECT e.EmployeeID, e.FirstName, e.LastName, e.AddressID, a.AddressID, a.AddressText
+ FROM [TelerikAcademy].[dbo].[Employees] e
+	INNER JOIN [TelerikAcademy].[dbo].[Addresses] a
+	ON e.AddressID = a.AddressID
+
+19.Write a SQL query to find all employees and their address. Use equijoins (conditions in the WHERE clause).
+
+ SELECT e.EmployeeID, e.FirstName, e.LastName, e.AddressID, a.AddressID, a.AddressText
+ FROM [TelerikAcademy].[dbo].[Employees] e, [TelerikAcademy].[dbo].[Addresses] a
+ WHERE e.AddressID = a.AddressID
+
+20.Write a SQL query to find all employees along with their manager.
+
+ SELECT emp.FirstName, emp.LastName, emp.ManagerID, men.EmployeeID, men.FirstName, men.LastName
+ FROM [TelerikAcademy].[dbo].[Employees] emp 
+	INNER JOIN [TelerikAcademy].[dbo].[Employees]  men
+	ON emp.ManagerID = men.EmployeeID
+
+21.Write a SQL query to find all employees, along with their manager and their address. 
+   Join the 3 tables: Employees e, Employees m and Addresses a.
+	
+ SELECT emp.FirstName, emp.LastName, emp.ManagerID, men.EmployeeID, men.FirstName, men.LastName, a.AddressText
+ FROM [TelerikAcademy].[dbo].[Employees] emp 
+	 JOIN [TelerikAcademy].[dbo].[Employees]  men
+	ON emp.ManagerID = men.EmployeeID
+	 JOIN [TelerikAcademy].[dbo].[Addresses] a
+	 ON men.AddressID = a.AddressID
+
+22.Write a SQL query to find all departments and all town names as a single list. Use UNION.
+
+ SELECT Name 
+ FROM [TelerikAcademy].[dbo].[Departments]
+ UNION
+ SELECT Name
+ FROM [TelerikAcademy].[dbo].[Towns] 
+
+23.Write a SQL query to find all the employees and the manager for each of them along with the employees 
+   that do not have manager. Use right outer join. Rewrite the query to use left outer join.
+
+ SELECT emp.FirstName + ' ' + emp.LastName AS EmployeesName, men.FirstName + ' ' + men.LastName AS ManagaerName
+ FROM [TelerikAcademy].[dbo].[Employees] emp
+	LEFT OUTER JOIN [TelerikAcademy].[dbo].[Employees] men
+	ON emp.ManagerID = men.EmployeeID
+
+24.Write a SQL query to find the names of all employees from the departments "Sales" and "Finance" 
+   whose hire year is between 1995 and 2005.
+
+ SELECT emp.FirstName + ' ' + emp.LastName AS EmployeesName, emp.HireDate, dep.Name
+ FROM [TelerikAcademy].[dbo].[Employees] emp
+ INNER JOIN [TelerikAcademy].[dbo].[Departments] dep
+ ON (emp.DepartmentID = dep.DepartmentID 
+     AND emp.HireDate > '1/1/1995'
+     AND emp.HireDate < '12/31/2005' 
+     AND dep.Name IN ('Sales', 'Finance'))

@@ -1,0 +1,111 @@
+1.Create a table in SQL Server with 10 000 000 log entries (date + text). Search in the table by date range. 
+Check the speed (without caching).
+
+*Create table
+
+CREATE TABLE Persons(
+	PersonID int NOT NULL IDENTITY,
+	RegistrationData DateTime,
+	PersonInfo nvarchar(200)
+	CONSTRAINT PK_Person PRIMARY KEY(PersonID)
+	)
+
+*Insert some info
+
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2013-08-05', 'Programer')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2012-04-05', 'Gamer')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2010-07-05', 'Worker')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2011-08-01', 'Teacher')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2007-08-05', 'Student')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2004-08-05', 'Boss')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2014-08-05', 'Talant')
+INSERT INTO Persons(RegistrationData,PersonInfo) VALUES('2000-08-05', 'Programer')
+
+
+*Insert 1 000 000 logs
+
+DECLARE @Counter int = 0
+WHILE (SELECT COUNT(*) FROM Persons) < 1000000
+BEGIN
+  INSERT INTO Persons(PersonInfo)
+  SELECT PersonInfo + CONVERT(varchar, @Counter) FROM Persons
+  SET @Counter = @Counter + 1
+END
+
+
+*Cleaning of cache
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS;
+
+*Search in table by date
+
+SELECT p.RegistrationData
+FROM Persons p
+WHERE YEAR(p.RegistrationData)<2005 
+
+Отговор: Без изтриване на каширането - почити мигновено. С изтриване на каширането - 2 сек.
+
+
+2.Add an index to speed-up the search by date. Test the search speed (after cleaning the cache).
+
+*Adding index
+
+CREATE INDEX IDX_Persons_RegistrationData ON Persons(RegistrationData)
+
+*Command for deleting index
+
+DROP INDEX Persons.IDX_Persons_RegistrationData
+
+*Clear the cache
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS;
+
+*Search in table by date
+
+SELECT p.RegistrationData
+FROM Persons p
+WHERE YEAR(p.RegistrationData)<2005 
+
+Отговор: С употребата на INDEX заявката работи за 3 секунди, а както стана ясно от предната задача без INDEX само за 2 -
+без INDEX работи по-бързо при 1 000 000 заявки
+
+
+
+3.Add a full text index for the text column. Try to search with and without the full-text index and compare the speed.
+
+
+
+CREATE FULLTEXT CATALOG MessagesFullTextCatalog
+WITH ACCENT_SENSITIVITY = OFF
+
+CREATE FULLTEXT INDEX ON Persons(PersonInfo)
+KEY INDEX PK_Persons_PersonID
+ON MessagesFullTextCatalog
+WITH CHANGE_TRACKING AUTO
+
+SELECT * FROM Persons
+WHERE CONTAINS(PersonInfo, 'pro%')
+
+
+* изпълнява се веднаха
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+SELECT COUNT(*) FROM Persons
+WHERE CONTAINS(PersonInfo, 'pro%')
+
+* изпълнява се ваднага
+
+DROP FULLTEXT INDEX ON Persons
+DROP FULLTEXT CATALOG MessagesFullTextCatalog
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+SELECT * FROM Persons
+WHERE PersonInfo LIKE 'Text%'
+
+* изпълнява се за 8 секунди
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS; -- Empty the SQL Server cache
+SELECT COUNT(*) FROM Persons
+WHERE PersonInfo LIKE 'Text%'
+
+* изпълнява се за 3 секунди

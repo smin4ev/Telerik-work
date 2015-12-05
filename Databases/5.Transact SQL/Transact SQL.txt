@@ -1,0 +1,82 @@
+1.Create a database with two tables: Persons(Id(PK), FirstName, LastName, SSN) and Accounts(Id(PK), PersonId(FK), Balance). 
+  Insert few records for testing. Write a stored procedure that selects the full names of all persons
+  
+  CREATE TABLE Persons(
+	PersonID int IDENTITY,
+	FirstName nvarchar(50),
+	LastName nvarchar(50),
+	SSN nvarchar(50),
+	CONSTRAINT PK_Person PRIMARY KEY (PersonID)
+ )
+
+ CREATE TABLE Accounts(
+	AccountID int IDENTITY,
+	PersonID int,
+	Balance money,
+	CONSTRAINT PK_Account PRIMARY KEY (AccountID),
+	CONSTRAINT FK_Person FOREIGN KEY (PersonID)
+		REFERENCES Persons(PersonID)
+ )
+
+ CREATE PROC usp_FullNamePerson
+ AS 
+ SELECT FirstName + ' ' + LastName
+ FROM Persons
+ GO
+
+ EXEC usp_FullNamePerson
+ 
+ 2.Create a stored procedure that accepts a number as a parameter and returns all persons who have 
+   more money in their accounts than the supplied number.
+   
+   CREATE PROC usp_MoreMoneyThanNumber(
+	@moneyForCompare money=1000
+   )
+   AS
+   SELECT p.FirstName, p.LastName, a.Balance
+   FROM Persons p
+   INNER JOIN Accounts a
+   ON p.PersonID = a.PersonID
+   WHERE a.Balance > @moneyForCompare
+   GO
+
+   EXEC usp_MoreMoneyThanNumber 4500
+ 
+ 3.Create a function that accepts as parameters – sum, yearly interest rate and number of months. 
+   It should calculate and return the new sum. Write a SELECT to test whether the function works as expected.
+   
+   CREATE FUNCTION ufn_CalculateSum(@sum money, @yearlyInterestRate int, @months int)
+	RETURNS money
+AS
+BEGIN
+	DECLARE @moneyFromInterest money
+	SET @moneyFromInterest = ((@yearlyInterestRate*@sum)/100)*(@months/12)
+	RETURN @moneyFromInterest
+END
+GO
+
+SELECT dbo.ufn_CalculateSum(1000, 4, 13) AS [Sum from Interest]
+GO
+
+6.Create another table – Logs(LogID, AccountID, OldSum, NewSum). Add a trigger to the Accounts table that 
+  enters a new entry into the Logs table every time the sum on an account changes.
+  
+  CREATE TABLE Logs(
+  LogID int IDENTITY,
+  AccountID int NOT NULL,
+  OldSum money NOT NULL,
+  NewSum money NOT NULL,
+  CONSTRAINT PK_Log PRIMARY KEY(LogID),
+  CONSTRAINT FK_Account FOREIGN KEY(AccountID)
+	REFERENCES Accounts(AccountID)
+  )
+  
+  CREATE TRIGGER tr_AccountsUpdate ON Accounts FOR UPDATE
+AS
+	BEGIN
+	INSERT INTO dbo.Logs
+		SELECT a.AccountID AS AccountID,
+		a.Balance AS NewSum
+	FROM inserted a
+	END
+GO

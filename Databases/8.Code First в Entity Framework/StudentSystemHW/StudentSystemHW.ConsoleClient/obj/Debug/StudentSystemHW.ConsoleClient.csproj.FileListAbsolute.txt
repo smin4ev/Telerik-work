@@ -1,0 +1,14 @@
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.ConsoleClient.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.ConsoleClient.exe
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.ConsoleClient.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.Data.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.Model.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.Data.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\StudentSystemHW.Model.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\obj\Debug\StudentSystemHW.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\obj\Debug\StudentSystemHW.ConsoleClient.exe
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.ConsoleClient\obj\Debug\StudentSystemHW.ConsoleClient.pdb

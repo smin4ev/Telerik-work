@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\bin\Debug\NortwindNumberOfRowsInCetegoriesTable.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\bin\Debug\NortwindNumberOfRowsInCetegoriesTable.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\bin\Debug\NortwindNumberOfRowsInCetegoriesTable.pdb
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\obj\Debug\NortwindNumberOfRowsInCetegoriesTable.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\obj\Debug\NortwindNumberOfRowsInCetegoriesTable.pdb
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\NortwindNumberOfRowsInCetegoriesTable\obj\Debug\1.NortwindNumberOfRowsInCetegoriesTable.csprojResolveAssemblyReference.cache

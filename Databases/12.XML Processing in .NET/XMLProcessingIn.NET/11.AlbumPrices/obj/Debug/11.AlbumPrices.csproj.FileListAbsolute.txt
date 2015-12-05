@@ -1,0 +1,5 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\11.AlbumPrices\bin\Debug\11.AlbumPrices.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\11.AlbumPrices\bin\Debug\11.AlbumPrices.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\11.AlbumPrices\bin\Debug\11.AlbumPrices.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\11.AlbumPrices\obj\Debug\11.AlbumPrices.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\11.AlbumPrices\obj\Debug\11.AlbumPrices.pdb

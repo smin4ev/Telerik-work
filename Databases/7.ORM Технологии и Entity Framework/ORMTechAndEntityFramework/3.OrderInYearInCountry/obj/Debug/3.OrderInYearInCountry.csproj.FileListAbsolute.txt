@@ -1,0 +1,1 @@
+D:\Telerik kursove\Бази данни\Homeworks\7.ORM Технологии и Entity Framework\ORMTechAndEntityFramework\3.OrderInYearInCountry\bin\Debug\3.OrderInYearInCountry.exe.config

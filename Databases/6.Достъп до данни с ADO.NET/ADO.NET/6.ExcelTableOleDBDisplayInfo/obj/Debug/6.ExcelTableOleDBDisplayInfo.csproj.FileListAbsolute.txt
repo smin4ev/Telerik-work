@@ -1,0 +1,5 @@
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\6.ExcelTableOleDBDisplayInfo\bin\Debug\6.ExcelTableOleDBDisplayInfo.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\6.ExcelTableOleDBDisplayInfo\bin\Debug\6.ExcelTableOleDBDisplayInfo.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\6.ExcelTableOleDBDisplayInfo\bin\Debug\6.ExcelTableOleDBDisplayInfo.pdb
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\6.ExcelTableOleDBDisplayInfo\obj\Debug\6.ExcelTableOleDBDisplayInfo.exe
+D:\Telerik kursove\Бази данни\Homeworks\6.Достъп до данни с ADO.NET\ADO.NET\6.ExcelTableOleDBDisplayInfo\obj\Debug\6.ExcelTableOleDBDisplayInfo.pdb

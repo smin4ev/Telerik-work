@@ -1,0 +1,12 @@
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\obj\Debug\2.ResearchingIncludeMethod.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\2.ResearchingIncludeMethod.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\2.ResearchingIncludeMethod.exe
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\2.ResearchingIncludeMethod.pdb
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\1.CreateDbContext.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\EntityFramework.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\1.CreateDbContext.pdb
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\EntityFramework.xml
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\obj\Debug\2.ResearchingIncludeMethod.exe
+D:\Telerik kursove\Бази данни\Homeworks\9.Performance Entity Framework\Performance Entity Framework HW\2.ResearchingIncludeMethod\obj\Debug\2.ResearchingIncludeMethod.pdb

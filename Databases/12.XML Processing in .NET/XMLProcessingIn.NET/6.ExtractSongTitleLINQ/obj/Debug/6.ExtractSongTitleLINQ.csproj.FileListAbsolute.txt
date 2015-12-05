@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\bin\Debug\6.ExtractSongTitleLINQ.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\bin\Debug\6.ExtractSongTitleLINQ.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\bin\Debug\6.ExtractSongTitleLINQ.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\obj\Debug\6.ExtractSongTitleLINQ.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\obj\Debug\6.ExtractSongTitleLINQ.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\6.ExtractSongTitleLINQ\obj\Debug\6.ExtractSongTitleLINQ.pdb

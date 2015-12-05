@@ -1,0 +1,98 @@
+1.What database models do you know?
+	-Hierarchical (tree)
+	-Network/graph
+	-Relational(table)
+	-Object-oriented
+
+2.Which are the main functions performed by a Relational Database Management System (RDBMS)?
+	-Creating / altering / deleting tables and relationships between them (database schema)
+	-Adding, changing, deleting, searching and retrieving of data stored in the tables
+	-Support for the SQL language
+
+3.Define what is "table" in database terms.
+	-A table is a collection of related data held in a structured format within a database. 
+	It consists of fields (columns), and rows.table is a set of data elements (values) using a 
+	model of vertical columns (which are identified by their name) and horizontal rows, the cell
+	being the unit where a row and column intersect.[2] A table has a specified number of columns, 
+	but can have any number of rows.[3] Each row is identified by the values appearing in a particular 
+	column subset which has been identified as a unique key index.
+
+4.Explain the difference between a primary and a foreign key.
+	-Primary key and foreign key are located in one table (two different columns). 
+	-Primary key is a column of the table that uniquely identifies its rows (usually its is a number)
+	-The foreign key is an identifier of a record located in another table (usually its primary key)
+	
+5.Explain the different kinds of relationships between tables in relational databases.
+	-Relationships between tables are based on interconnections: primary key / foreign key 
+
+		*Relationship one-to-many (or many-to-one) - A single record in the first 
+		table has many corresponding records in the second table
+
+		*Relationship many-to-many - Records in the first table have many corresponding 
+		records in the second one and vice versa.Implemented through additional table
+
+		*Relationship one-to-one - A single record in a table corresponds to a single record in the other table
+
+6.When is a certain database schema normalized? What are the advantages of normalized databases?
+	-Database is normalized when there is no repeating data. Advantages of normalized database are many:
+
+		*It makes the process of changing the data in a table for a lot if its components easier, 
+		because normalising a database enables the user to create relationship strands between 
+		the pieces of information
+
+		*Normalisation helps to reduce redundancy rates within companies because when a 
+		database is normalised, it pulls out all the abnormal factors to do with workers 
+		that do not fit in to the general consensus of the company. 
+
+		*Normalisation can also be handy in finding anomalies within data. For example, if 
+		an employee recently changed addresses, but only one of the databases that they are 
+		on is updated, normalisation would recognise this as abnormal and flag the issue up to human resources. 
+
+7.What are database integrity constraints and when are they used?
+	-Integrity constraints ensure data integrity in the database tables. They are used when user want to be sure
+	that database element (or elements) are within certain limits or to comply with a particular condition
+
+
+8.Point out the pros and cons of using indexes in a database.
+	-Indices speed up searching of values in a certain column or group of columns 
+	-Indices can be built-in the table (clustered) or stored externally (non-clustered)
+	-Indices can be built-in the table (clustered) or stored externally (non-clustered) - should be 
+	use for big tables only - 50000 rows
+
+
+9.What's the main purpose of the SQL language?
+	-SQL (Structured Query Language) is standardized declarative language for manipulation of relational databases
+	
+10.What are transactions used for? Give an example.
+	-Transactions are a sequence of database operations which are executed as a single unit:
+		*Either all of them execute successfully
+		*Or none of them is executed at all
+	-Transaction are used when user want to be sure that all activities in a procedure are done
+	-Example - A bank transfer from one account into another (withdrawal + deposit) - If either the withdrawal 
+	or the deposit fails the entire operation should be cancelled
+
+11.What is a NoSQL database?
+	-NoSQL - non-relational databases
+	-Use document-based model (non-relational)
+	-A NoSQL or Not Only SQL database provides a mechanism for storage and retrieval of data that 
+	is modeled in means other than the tabular relations used in relational databases.
+12.Explain the classical non-relational data models.
+	-NoSQL databases are increasingly used in big data and real-time web applications.
+	NoSQL systems are also called "Not only SQL" to emphasize that they may also support 
+	SQL-like query languages. Many NoSQL stores compromise consistency (in the sense of the CAP theorem) 
+	in favor of availability and partition tolerance. Barriers to the greater adoption of NoSQL stores 
+	include the use of low-level query languages, the lack of standardized interfaces, and huge 
+	investments in existing SQL.Most NoSQL stores lack true ACID transactions, although a few recent 
+	systems, such as FairCom c-treeACE, Google Spanner and FoundationDB, have made them central to their designs.
+13.Give few examples of NoSQL databases and their pros and cons.
+	-Document model - Set of documents, e.g. JSON strings
+	-Key-value model - Set of key-value pairs
+	-Hierarchical key-value - Hierarchy of key-value pairs
+	-Wide-column model - Key-value model with schema
+
+ 
+
+
+
+
+

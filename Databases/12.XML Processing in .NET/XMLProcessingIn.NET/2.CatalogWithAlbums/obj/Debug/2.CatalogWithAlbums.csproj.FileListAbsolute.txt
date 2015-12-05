@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\bin\Debug\2.CatalogWithAlbums.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\bin\Debug\2.CatalogWithAlbums.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\bin\Debug\2.CatalogWithAlbums.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\obj\Debug\2.CatalogWithAlbums.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\obj\Debug\2.CatalogWithAlbums.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\2.CatalogWithAlbums\obj\Debug\2.CatalogWithAlbums.pdb

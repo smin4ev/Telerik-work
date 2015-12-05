@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\bin\Debug\1.Catalogue.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\bin\Debug\1.Catalogue.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\bin\Debug\1.Catalogue.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\obj\Debug\1.Catalogue.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\obj\Debug\1.Catalogue.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\1.Catalogue\obj\Debug\1.Catalogue.pdb

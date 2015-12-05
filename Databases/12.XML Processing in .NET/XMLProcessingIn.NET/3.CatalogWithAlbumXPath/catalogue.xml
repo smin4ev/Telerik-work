@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue xmlns:catalogue ="urn:catalogue">
+  <album>
+    <name>The Best</name>
+    <artist>Lili Ivanova</artist>
+    <year>1998</year>
+    <producer>Ivan Petrov</producer>
+    <price>10</price>
+    <songs>
+      <song>
+        <title>Super</title>
+        <duration>3.08</duration>
+      </song>
+      <song>
+        <title>Super1</title>
+        <duration>4.15</duration>
+      </song>
+      <song>
+        <title>Super2</title>
+        <duration>3.58</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Mnogo dobur</name>
+    <artist>Vasil Naidenov</artist>
+    <year>1988</year>
+    <producer>Mitko Mitkov</producer>
+    <price>24</price>
+    <songs>
+      <song>
+        <title>Ala-bala</title>
+        <duration>3.28</duration>
+      </song>
+      <song>
+        <title>Ala-bala1</title>
+        <duration>4.35</duration>
+      </song>
+      <song>
+        <title>Ala-bala2</title>
+        <duration>5.18</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name></name>
+    <artist>Lili Ivanova</artist>
+    <year>1998</year>
+    <producer>Ivailo Nikolov</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>Nai-dibrata</title>
+        <duration>4.10</duration>
+      </song>
+      <song>
+        <title>Nai-dobrata1</title>
+        <duration>3.27</duration>
+      </song>
+      <song>
+        <title>Nai-dobrata2</title>
+        <duration>3.22</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
+
+
+
+

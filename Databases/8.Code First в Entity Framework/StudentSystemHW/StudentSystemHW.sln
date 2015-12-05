@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystemHW.Model", "StudentSystemHW.Model\StudentSystemHW.Model.csproj", "{5301A0B8-7FDE-40ED-A17A-3087E696FD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystemHW.Data", "StudentSystemHW.Data\StudentSystemHW.Data.csproj", "{3B760BF0-771A-4BD1-A783-95CA8E6266FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystemHW.ConsoleClient", "StudentSystemHW.ConsoleClient\StudentSystemHW.ConsoleClient.csproj", "{57099F62-B576-424D-B914-B36DBDB52671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5301A0B8-7FDE-40ED-A17A-3087E696FD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5301A0B8-7FDE-40ED-A17A-3087E696FD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5301A0B8-7FDE-40ED-A17A-3087E696FD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5301A0B8-7FDE-40ED-A17A-3087E696FD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B760BF0-771A-4BD1-A783-95CA8E6266FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B760BF0-771A-4BD1-A783-95CA8E6266FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B760BF0-771A-4BD1-A783-95CA8E6266FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B760BF0-771A-4BD1-A783-95CA8E6266FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57099F62-B576-424D-B914-B36DBDB52671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57099F62-B576-424D-B914-B36DBDB52671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57099F62-B576-424D-B914-B36DBDB52671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57099F62-B576-424D-B914-B36DBDB52671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

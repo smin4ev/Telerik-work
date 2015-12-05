@@ -1,0 +1,15 @@
+1.What does the XML language represents? What does it used for? 
+
+XML - (eXtensible Markup Language)
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a 
+format that is both human-readable and machine-readable. It is defined in the XML 1.0 Specification[2] produced 
+by the W3C, and several other related specifications,[3] all free open standards.[4]
+
+The design goals of XML emphasize simplicity, generality, and usability over the Internet.[5] It is a textual 
+data format with strong support via Unicode for different human languages. Although the design of XML focuses 
+on documents, it is widely used for the representation of arbitrary data structures,[6] for example in web services.
+
+
+3.What does the namespaces represents in the XML documents? What are they used for? 
+
+Namespaces in XML documents allow using different tags with the same name

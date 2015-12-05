@@ -1,0 +1,14 @@
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\obj\Debug\StudentSystemHW.Data.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\StudentSystemHW.Data.dll.config
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\StudentSystemHW.Data.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\StudentSystemHW.Data.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\EntityFramework.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\StudentSystemHW.Model.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\StudentSystemHW.Model.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\EntityFramework.xml
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\obj\Debug\StudentSystemHW.Data.dll
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\obj\Debug\StudentSystemHW.Data.pdb
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\obj\Debug\StudentSystemHW.Data.Migrations.InitialCreate.resources
+D:\Telerik kursove\Бази данни\Homeworks\8.Code First в Entity Framework\StudentSystemHW\StudentSystemHW.Data\obj\Debug\StudentSystemHW.Data.csproj.GenerateResource.Cache

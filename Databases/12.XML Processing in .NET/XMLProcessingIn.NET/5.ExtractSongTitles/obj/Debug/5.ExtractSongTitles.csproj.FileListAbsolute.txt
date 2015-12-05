@@ -1,0 +1,6 @@
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\bin\Debug\5.ExtractSongTitles.exe.config
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\bin\Debug\5.ExtractSongTitles.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\bin\Debug\5.ExtractSongTitles.pdb
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\obj\Debug\5.ExtractSongTitles.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\obj\Debug\5.ExtractSongTitles.exe
+D:\Telerik kursove\Бази данни\Homeworks\12.XML Processing in .NET\XMLProcessingIn.NET\5.ExtractSongTitles\obj\Debug\5.ExtractSongTitles.pdb
