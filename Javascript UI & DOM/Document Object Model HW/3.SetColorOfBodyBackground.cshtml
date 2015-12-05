@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body id="body">
+        <input type="color" id="color" onchange="changeBodyColor(this)"/>
+        <script>
+            //3.Crеate a function that gets the value of <input type="color"> and 
+            //sets the background of the body to this value
+            function changeBodyColor() {
+                document.getElementById("body").style.backgroundColor = document.getElementById("color").value;
+            }
+
+        </script>
+    </body>
+</html>

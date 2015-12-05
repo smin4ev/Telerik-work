@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div id="wrapper">
+            <input type =" text" id="first-field" value ="Some text written here " onchange="getValueOfInput(this)" />
+            <input type="text" id="second-field" value ="Alabala text " onchange="getValueOfInput(this)"  />
+            <button onclick ="getValueOfInput ">Click and see the console</button>*
+            <input type="color" />
+        </div>
+        <script>
+            //2.Create a function that gets the value of <input type="text"> ands prints its value to the console
+            function getValueOfInput() {
+                var valueOfInput = document.getElementsByTagName('input');
+                for (var i = 0; i < valueOfInput.length; i++) {
+                    console.log(valueOfInput[i].value);
+                }
+            }
+           getValueOfInput();
+        </script>
+    </body>
+</html>

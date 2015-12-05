@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Шаблони за HTML\HTML Templates - Handlebars\HTML Templates - Handlebars\bin\HTML Templates - Handlebars.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Шаблони за HTML\HTML Templates - Handlebars\HTML Templates - Handlebars\bin\HTML Templates - Handlebars.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Шаблони за HTML\HTML Templates - Handlebars\HTML Templates - Handlebars\obj\Debug\HTML Templates - Handlebars.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Шаблони за HTML\HTML Templates - Handlebars\HTML Templates - Handlebars\obj\Debug\HTML Templates - Handlebars.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Шаблони за HTML\HTML Templates - Handlebars\HTML Templates - Handlebars\obj\Debug\HTML Templates - Handlebars.pdb

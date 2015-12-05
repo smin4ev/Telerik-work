@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SCG - HW\SVG-Homework\SVG-Homework\bin\SVG-Homework.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SCG - HW\SVG-Homework\SVG-Homework\bin\SVG-Homework.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SCG - HW\SVG-Homework\SVG-Homework\obj\Debug\SVG-Homework.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SCG - HW\SVG-Homework\SVG-Homework\obj\Debug\SVG-Homework.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SCG - HW\SVG-Homework\SVG-Homework\obj\Debug\SVG-Homework.pdb

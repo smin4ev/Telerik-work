@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Team Jade - MineSweeper</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <h1>MineSweeper</h1>
+
+    <h2>Team JADE</h2>
+
+    <div id="audioControl">
+        <audio autoplay loop id="audio">
+            <!--uncomment to load the audio file-->
+            <source src="audio/audio.mp3" type="audio/mpeg">
+        </audio>
+
+        <input type="image" id="audioBtn" src="img/audio_on.png" alt=""/>
+    </div>
+
+    <div id="game" class="container">
+        <div id="timer"><span id="timerValue">0</span> seconds</div>
+        ​
+        <canvas id="board" width="200" height="200"></canvas>
+        <button class="ui-button" id="backToMenu">Back To Menu</button>
+    </div>
+
+    <div id="menu" class="container">
+        <button class="ui-button" id="startBtn">New Game</button>
+        <button class="ui-button" id="settingsBtn">Settings</button>
+        <button class="ui-button" id="scoreboardBtn">ScoreBoard</button>
+        <button class="ui-button" id="helpBtn">Help</button>
+        <button class="ui-button" id="exitBtn">Exit</button>
+    </div>
+
+    <div id="settings" class="container">
+        <button class="ui-button" id="eightBtn">8x8 with 10 mines</button>
+        <button class="ui-button" id="sixteenBtn">16x16 with 20 mines</button>
+        <button class="ui-button" id="customBtn">Custom</button>
+
+        <div class="customSettings" id="customSettings">
+            <label for="rows">Rows:</label> <input type="number" name="rows" id="rows" value="8" min="5" max="20"><br/>
+            <label for="cols">Cols:</label> <input type="number" name="cols" id="cols" value="8" min="5" max="20"><br/>
+            <label for="mines">Mines:</label> <input type="number" name="mines" id="mines" value="10" min="1" max="398"/>
+        </div>
+
+        <button class="ui-button" id="saveBtn">Save</button>
+        <button class="ui-button" id="settingsBackBtn">Back</button>
+    </div>
+
+    <div id="submitScore">
+        <div>Enter Your Name:</div>
+        <input type="text" name="player-name" id="player-name"/>
+        <button class="ui-button" id="submitBtn">Submit</button>
+        <button class="ui-button" id="cancelSubmitBtn">Cancel</button>
+    </div>
+
+    <div id="scoreboard" class="container">
+        <ul id="results-list">
+            <li>No Results!</li>
+        </ul>
+        <button class="ui-button" id="scoreboardBackBtn">Back</button>
+    </div>
+
+    <div id="game-help" class="container">
+        
+        <svg class="help-container" width="300" height="140" font-weight=normal>
+            <text x="65" y="15" fill="black">This is the classic game minesweeper.</text>
+            <text x="80" y="60" fill="black">Controls for playing the game:</text>
+            <text x="40" y="90" fill="red">Left click on cell: </text>
+            <text x="190" y="90" fill="green">opens the clicked cell</text>
+            <text x="40" y="110" fill="red">Right click on cell: </text>
+            <text x="190" y="110" fill="green">flag the clicked cell or</text>
+            <text x="190" y="130" fill="green">unflag it if it was flagged</text>
+        </svg>
+
+        <button class="ui-button" id="helpBackBtn">Back</button>
+    </div>
+
+    <span id="forkongithub"><a href="https://github.com/Belev/TeamJade-JavaScriptUI-DOM" target="_blank">Fork me on GitHub</a></span>
+</div>
+
+<script src="js/lib/jquery.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/resultsStorageManager.js"></script>
+<script src="js/playfieldManager.js"></script>
+<script src="js/menu.js"></script>
+<script src="js/minesweeper.js"></script>
+</body>
+</html>

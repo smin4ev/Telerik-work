@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\jQuery plugins HW\jQueryPlugins\jQueryPlugins\bin\jQueryPlugins.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\jQuery plugins HW\jQueryPlugins\jQueryPlugins\bin\jQueryPlugins.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\jQuery plugins HW\jQueryPlugins\jQueryPlugins\obj\Debug\jQueryPlugins.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\jQuery plugins HW\jQueryPlugins\jQueryPlugins\obj\Debug\jQueryPlugins.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\jQuery plugins HW\jQueryPlugins\jQueryPlugins\obj\Debug\jQueryPlugins.pdb

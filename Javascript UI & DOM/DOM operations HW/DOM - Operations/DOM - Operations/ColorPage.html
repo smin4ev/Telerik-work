@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Color Page</title>
+</head>
+<body>
+    <textarea id="text">Some text here</textarea>
+    <input type="color" id="first" onchange ="changeBodyColor()" />
+    <input type="color" id ="second" onchange ="changeFontColor() " />
+
+    <script>
+        var text = document.getElementById('text');
+        var first = document.getElementById('first');
+        function changeBodyColor() {
+            text.style.background = first.value;
+        }
+        
+        function changeFontColor() {
+            text.style.color = second.value;
+        }
+    </script>
+</body>
+</html>

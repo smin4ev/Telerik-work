@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\DOM operations HW\DOM - Operations\DOM - Operations\bin\DOM - Operations.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\DOM operations HW\DOM - Operations\DOM - Operations\bin\DOM - Operations.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\DOM operations HW\DOM - Operations\DOM - Operations\obj\Debug\DOM - Operations.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\DOM operations HW\DOM - Operations\DOM - Operations\obj\Debug\DOM - Operations.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\DOM operations HW\DOM - Operations\DOM - Operations\obj\Debug\DOM - Operations.pdb

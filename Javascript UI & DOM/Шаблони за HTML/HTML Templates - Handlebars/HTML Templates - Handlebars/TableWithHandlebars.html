@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Table with Handlebars</title>
+    <link href="tableStyles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="root">
+
+    </div>
+    <script src="scripts/handlebars-v1.3.0.js" ></script>
+    
+    <script type="text/x-handlebars-template" id="table-template">
+       <table>
+            <tr>
+                <th>N</th>
+                <th>Title</th>
+                <th>Data #1</th>
+                <th>Data #2</th>
+            </tr>
+        {{#each categories}}
+            <tr>
+                <td>{{number}}</td>
+                <td>{{title}}</td>
+                <td>{{firstData}}</td>
+                <td>{{secondData}}</td>
+            </tr>    
+        {{/each}}
+
+       </table> 
+    </script>
+    <script src="table.js"></script>
+</body>
+</html>

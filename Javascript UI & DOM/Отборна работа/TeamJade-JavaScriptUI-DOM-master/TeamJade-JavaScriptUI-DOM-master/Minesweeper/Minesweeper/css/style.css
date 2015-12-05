@@ -1,0 +1,250 @@
+﻿/*==================== Fonts =====================*/
+
+@font-face {
+    font-family: 'Bangers';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Bangers'), local('Bangers-Regular'), url(../fonts/bangers.woff) format('woff');
+}
+
+
+/*==================== Reset ====================*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+/*================== Minesweeper ==================*/
+
+body {
+    font-family: 'Bangers', "Helvetica Neue", Arial, Helvetica, sans-serif, cursive;
+    font-size: 20px;
+    background-color: #ededed;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+div {
+    margin-top: 10px;
+}
+
+.wrapper {
+    background: url("../img/border.svg") #ededed no-repeat top left;
+    background-size: contain;
+    width: 600px;
+    height: 780px;
+    margin: 0 auto;
+    padding: 100px 20px 20px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.ui-button {
+    font-family: 'Bangers', "Helvetica Neue", Arial, Helvetica, sans-serif, cursive;
+    font-size: 25px;
+    color: #000;
+    display: block;
+    width: 220px;
+    height: 50px;
+    margin: 5px auto 0;
+    border: 3px solid black;
+    background-color: #f7f7f7;
+    transition:0.5s;
+}
+
+.ui-button:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+.customSettings {
+    text-align: center;
+}
+
+input[type="number"] {
+    border: 2px solid black;
+}
+input[type="text"] {
+    font-family: 'Bangers', "Helvetica Neue", Arial, Helvetica, sans-serif, cursive;
+    font-size: 20px;
+    text-align: center;
+    height: 25px;
+    width: 250px;
+    padding: 2px 5px;
+    margin: 5px auto;
+    border: 3px solid black;
+}
+
+#timer {
+    width: 150px;
+    margin: 0 auto 3px;
+}
+
+#timerValue {
+    background-color: #f7f7f7;
+    display: inline-block;
+    min-width: 50px;
+    border: 2px solid black;
+    padding: 2px;
+}
+
+#game {
+    text-align: center;
+}
+
+#board:hover {
+    cursor: pointer;
+}
+
+#game-help {
+    text-align: center;
+}
+
+#game-help > .help-container {
+    line-height: 25px;
+    background-color: #f7f7f7;
+    width: 400px;
+    padding: 10px 0;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+#audioControl {
+    width: 40px;
+    margin: 0 auto;
+}
+
+#audioBtn {
+    width: 30px;
+    position: relative;
+    top: -90px;
+    left: -185px;
+}
+
+#submitScore {
+    text-align: center;
+}
+
+#results-list {
+    text-align: center;
+    line-height: 25px;
+    background-color: #f7f7f7;
+    width: 400px;
+    padding: 10px 0;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+/*================ Fork me on GitHub ================*/
+
+#forkongithub a{
+    background:#f7f7f7;
+    color:#000;
+    text-decoration:none;
+    text-align:center;
+    padding:5px 40px;
+    font-size:1.5rem;
+    line-height:2rem;
+    position:relative;
+    transition:0.5s;
+}
+
+#forkongithub a:hover{
+    background:#ddd;
+}
+
+#forkongithub a::before, #forkongithub a::after{
+    content:"";
+    width:100%;
+    display:block;
+    position:absolute;
+    top:2px;
+    left:0;
+    height:3px;
+    background:#000;
+}
+
+#forkongithub a::after{
+    bottom:1px;
+    top:auto;
+}
+
+@media screen and (min-width:400px){
+    #forkongithub{
+        position:absolute;
+        display:block;
+        top:0;
+        right:0;
+        width:200px;
+        overflow:hidden;
+        height:200px;
+        z-index:9999;
+    }
+
+    #forkongithub a{
+        width:200px;
+        position:absolute;
+        top:60px;
+        right:-60px;
+        transform:rotate(45deg);
+        -webkit-transform:rotate(45deg);
+        -ms-transform:rotate(45deg);
+        -moz-transform:rotate(45deg);
+        -o-transform:rotate(45deg);
+        box-shadow:1px 1px 3px rgba(0,0,0,0.8);
+    }
+}

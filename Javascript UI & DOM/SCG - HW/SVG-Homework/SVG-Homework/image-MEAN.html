@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Image MEAN</title>
+    <style>
+        svg
+        {
+            margin:30px;
+            border:1px solid black;
+           
+        }
+    </style>
+</head>
+<body>
+    <svg width ="300" height="450">
+        <!--text-->
+        <text x="30" y="100" fill="grey" font-size="40px" font-weight="bold" font-family="arial">M</text>
+        <text x="30" y="170" fill="black" font-size="40px" font-weight="bold" font-family="arial">E</text>
+        <text x="30" y="240" fill="red" font-size="40px" font-weight="bold" font-family="arial">A</text>
+        <text x="30" y="310" fill="#9bc73f" font-size="40px" font-weight="bold" font-family="arial">N</text>
+        
+        <!--first circle - green part into it-->
+        <circle cx="200" cy="80" r="60" fill="grey"></circle>
+        <path fill="yellowgreen" d="M 200 50 C 160 100 200 130 200 130"></path> 
+        <path fill ="green" d="M 200 50 C 240 110 200 110 200 130"></path>
+
+        <!-- circle with text inside-->
+        <circle cx="200" cy="150" r="60" fill="black"></circle>
+        <text x="150" y="160" font-size="25px" fill="white" font-family="consolas">express</text>
+
+        <!--red circle with white part inside-->
+        <circle cx="200" cy="220" r="60" fill="red"></circle>
+        <path fill="red" stroke="lightgrey" stroke-width="4px" d="M 175 250 L 165 195 L 200 180 "></path>
+        <path fill="darkred" stroke="lightgrey" stroke-width="4px" d="M 200 180 L 235 195 L 225 250 "></path>
+        <path stroke="white" stroke-width="6px" d="M 200 185 L 185 235" ></path>
+        <path stroke="lightgrey" stroke-width="6px" d="M 200 185 L 215 235"></path>
+
+        <!--green circle-->
+        <circle cx="200" cy="290" r="60" fill="#9bc73f"></circle>
+        <image x="160" y="265" width="80" height="50" xlink:href="images/node.png" ></image>
+
+    </svg>
+</body>
+</html>

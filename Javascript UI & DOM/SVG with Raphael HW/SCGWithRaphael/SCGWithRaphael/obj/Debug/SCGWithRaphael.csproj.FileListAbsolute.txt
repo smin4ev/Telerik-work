@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SVG with Raphael HW\SCGWithRaphael\SCGWithRaphael\bin\SCGWithRaphael.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SVG with Raphael HW\SCGWithRaphael\SCGWithRaphael\bin\SCGWithRaphael.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SVG with Raphael HW\SCGWithRaphael\SCGWithRaphael\obj\Debug\SCGWithRaphael.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SVG with Raphael HW\SCGWithRaphael\SCGWithRaphael\obj\Debug\SCGWithRaphael.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\SVG with Raphael HW\SCGWithRaphael\SCGWithRaphael\obj\Debug\SCGWithRaphael.pdb

@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Анимации с Canvas и SVG\AnimationWithCanvasAndSVG\AnimationWithCanvasAndSVG\bin\AnimationWithCanvasAndSVG.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Анимации с Canvas и SVG\AnimationWithCanvasAndSVG\AnimationWithCanvasAndSVG\bin\AnimationWithCanvasAndSVG.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Анимации с Canvas и SVG\AnimationWithCanvasAndSVG\AnimationWithCanvasAndSVG\obj\Debug\AnimationWithCanvasAndSVG.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Анимации с Canvas и SVG\AnimationWithCanvasAndSVG\AnimationWithCanvasAndSVG\obj\Debug\AnimationWithCanvasAndSVG.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\Анимации с Canvas и SVG\AnimationWithCanvasAndSVG\AnimationWithCanvasAndSVG\obj\Debug\AnimationWithCanvasAndSVG.pdb

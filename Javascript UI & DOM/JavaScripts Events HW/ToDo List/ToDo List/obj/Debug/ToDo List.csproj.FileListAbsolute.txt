@@ -1,0 +1,5 @@
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\JavaScripts Events HW\ToDo List\ToDo List\bin\ToDo List.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\JavaScripts Events HW\ToDo List\ToDo List\bin\ToDo List.pdb
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\JavaScripts Events HW\ToDo List\ToDo List\obj\Debug\ToDo List.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\JavaScripts Events HW\ToDo List\ToDo List\obj\Debug\ToDo List.dll
+D:\Telerik kursove\Java Script UI & DOM\Homeworks\JavaScripts Events HW\ToDo List\ToDo List\obj\Debug\ToDo List.pdb

@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Select Div Nodes In Other Div </title>
+    </head>
+    <body>
+        <div id="first-outer-div">
+            <div>
+                This unorderer list is in a div directly
+                <ul>
+                    <li>Some Text</li>
+                    <li>Some Text</li>
+                    <li>Some Text</li>
+                </ul>
+            </div>
+        </div>
+        <div id="second-outer-div">
+            This unordererd list is NOT directly in div - it is in navigation
+           <nav>
+               <div>
+                   <ul>
+                       <li>Some Text in Nav</li>
+                       <li>Some Text in Nav</li>
+                       <li>Some Text in Nav</li>
+                   </ul>
+               </div>
+           </nav>
+           <div>
+               This paragraph is directly in div
+               <p>Some text in paragraph!</p>
+           </div>
+        </div>
+
+        <script>
+            //1.Write a script that selects all the div nodes that are directly inside other div elements
+            //    -Create a function using querySelectorAll()
+            //    -Create a function using getElementsByTagName()
+            
+            //With querySelectorAll()
+
+            var firstOuterDiv = document.querySelectorAll("#first-outer-div > div");
+            for (var i = 0; i < firstOuterDiv.length; i++) {
+                console.log(firstOuterDiv[i].innerHTML);
+                
+            }
+
+            var secondOuterDiv = document.querySelectorAll("#second-outer-div > div");
+            for (var i = 0; i < secondOuterDiv.length; i++) {
+                console.log(secondOuterDiv[i].innerHTML);
+            }
+
+            //With getElementByTagName()
+
+            var firstDiv = document.getElementById("first-outer-div");
+            var divInsideDivFirst = firstDiv.getElementsByTagName("div");
+            for (var i = 0; i < divInsideDivFirst.length; i++) {
+                if (divInsideDivFirst[i] == document.querySelector("#first-outer-div > div")) {
+                    console.log(divInsideDivFirst[i].innerHTML);
+                }
+            }
+
+            var secondDiv = document.getElementById("second-outer-div");
+            var divInsideDivSecond = secondDiv.getElementsByTagName("div");
+            for (var i = 0; i < divInsideDivSecond.length; i++) {
+                if (divInsideDivSecond[i] == document.querySelector("#second-outer-div > div")) {
+                    console.log(divInsideDivSecond[i].innerHTML);
+                }
+            }
+
+        </script>
+    </body>
+</html>
