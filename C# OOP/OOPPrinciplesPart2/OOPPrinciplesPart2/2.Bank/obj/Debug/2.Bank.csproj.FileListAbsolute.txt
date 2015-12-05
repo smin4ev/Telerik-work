@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\bin\Debug\2.Bank.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\bin\Debug\2.Bank.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\bin\Debug\2.Bank.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\obj\Debug\2.Bank.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\obj\Debug\2.Bank.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\2.Bank\obj\Debug\2.Bank.csprojResolveAssemblyReference.cache

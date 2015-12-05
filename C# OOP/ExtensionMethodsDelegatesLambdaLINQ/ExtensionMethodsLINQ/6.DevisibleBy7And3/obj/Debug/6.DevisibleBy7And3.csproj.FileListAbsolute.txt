@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\bin\Debug\6.DevisibleBy7And3.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\bin\Debug\6.DevisibleBy7And3.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\bin\Debug\6.DevisibleBy7And3.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\obj\Debug\6.DevisibleBy7And3.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\obj\Debug\6.DevisibleBy7And3.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\6.DevisibleBy7And3\obj\Debug\6.DevisibleBy7And3.pdb

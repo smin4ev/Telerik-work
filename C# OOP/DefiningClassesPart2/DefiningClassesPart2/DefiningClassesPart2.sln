@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.StructurePoint3D", "1.StructurePoint3D\1.StructurePoint3D.csproj", "{6B93C3A0-3405-48F4-9BBB-CC2D1AEE8922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.GenericClassT", "2.GenericClassT\2.GenericClassT.csproj", "{21ACE479-7F73-49BB-80E4-75FB03F02544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.VersionAtribute", "3.VersionAtribute\3.VersionAtribute.csproj", "{50ACB4A8-4BFD-4275-B5F2-F7C53C21E984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B93C3A0-3405-48F4-9BBB-CC2D1AEE8922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B93C3A0-3405-48F4-9BBB-CC2D1AEE8922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B93C3A0-3405-48F4-9BBB-CC2D1AEE8922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B93C3A0-3405-48F4-9BBB-CC2D1AEE8922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ACE479-7F73-49BB-80E4-75FB03F02544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ACE479-7F73-49BB-80E4-75FB03F02544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ACE479-7F73-49BB-80E4-75FB03F02544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ACE479-7F73-49BB-80E4-75FB03F02544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ACB4A8-4BFD-4275-B5F2-F7C53C21E984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ACB4A8-4BFD-4275-B5F2-F7C53C21E984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ACB4A8-4BFD-4275-B5F2-F7C53C21E984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ACB4A8-4BFD-4275-B5F2-F7C53C21E984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

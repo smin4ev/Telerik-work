@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\bin\Debug\3.InvalidRangeException.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\3.InvalidRangeException\obj\Debug\3.InvalidRangeException.csprojResolveAssemblyReference.cache

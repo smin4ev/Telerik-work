@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\bin\Debug\1.StructurePoint3D.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\1.StructurePoint3D\obj\Debug\1.StructurePoint3D.pdb

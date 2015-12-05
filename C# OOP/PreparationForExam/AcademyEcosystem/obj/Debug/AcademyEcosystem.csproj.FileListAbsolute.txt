@@ -1,0 +1,7 @@
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\PreparationForExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\PreparationForExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb

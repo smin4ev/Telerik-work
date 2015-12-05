@@ -1,0 +1,1 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\5.BitArray64Test\bin\Debug\5.BitArray64Test.exe.config

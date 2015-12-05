@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\bin\Debug\1.ExtensionSubstring.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\bin\Debug\1.ExtensionSubstring.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\bin\Debug\1.ExtensionSubstring.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\obj\Debug\1.ExtensionSubstring.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\obj\Debug\1.ExtensionSubstring.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\1.ExtensionSubstring\obj\Debug\1.ExtensionSubstring.pdb

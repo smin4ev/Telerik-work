@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb

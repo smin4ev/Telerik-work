@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\bin\Debug\3.GroupOfAnimals.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\obj\Debug\3.GroupOfAnimals.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\bin\Debug\3.GroupOfAnimals.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\bin\Debug\3.GroupOfAnimals.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\obj\Debug\3.GroupOfAnimals.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\3.GroupOfAnimals\obj\Debug\3.GroupOfAnimals.pdb

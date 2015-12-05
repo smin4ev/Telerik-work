@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\bin\Debug\StudentDataTest.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\obj\Debug\StudentDataTest.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\bin\Debug\StudentDataTest.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\bin\Debug\StudentDataTest.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\obj\Debug\StudentDataTest.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\CommonTypeSystem\CommonTypeSystemHW\StudentDataTest\obj\Debug\StudentDataTest.pdb

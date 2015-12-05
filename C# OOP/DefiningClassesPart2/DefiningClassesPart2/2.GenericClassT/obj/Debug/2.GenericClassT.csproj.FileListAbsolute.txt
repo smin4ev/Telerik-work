@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\bin\Debug\2.GenericClassT.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\bin\Debug\2.GenericClassT.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\bin\Debug\2.GenericClassT.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\obj\Debug\2.GenericClassT.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\obj\Debug\2.GenericClassT.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart2\DefiningClassesPart2\2.GenericClassT\obj\Debug\2.GenericClassT.csprojResolveAssemblyReference.cache

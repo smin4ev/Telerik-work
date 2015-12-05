@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\bin\Debug\1.SchoolTest.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\obj\Debug\1.SchoolTest.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\bin\Debug\1.SchoolTest.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\bin\Debug\1.SchoolTest.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\obj\Debug\1.SchoolTest.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\1.SchoolTest\obj\Debug\1.SchoolTest.pdb

@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart1\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.csprojResolveAssemblyReference.cache

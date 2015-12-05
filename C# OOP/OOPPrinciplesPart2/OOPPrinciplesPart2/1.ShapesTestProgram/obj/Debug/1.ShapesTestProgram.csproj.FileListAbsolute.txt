@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\bin\Debug\1.ShapesTestProgram.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\bin\Debug\1.ShapesTestProgram.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\bin\Debug\1.ShapesTestProgram.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\obj\Debug\1.ShapesTestProgram.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\obj\Debug\1.ShapesTestProgram.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\OOPPrinciplesPart2\OOPPrinciplesPart2\1.ShapesTestProgram\obj\Debug\1.ShapesTestProgram.pdb

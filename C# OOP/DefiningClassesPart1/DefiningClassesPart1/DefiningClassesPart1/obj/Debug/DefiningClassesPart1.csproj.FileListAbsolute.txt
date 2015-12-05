@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\bin\Debug\DefiningClassesPart1.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\obj\Debug\DefiningClassesPart1.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\bin\Debug\DefiningClassesPart1.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\bin\Debug\DefiningClassesPart1.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\obj\Debug\DefiningClassesPart1.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\DefiningClassesPart1\DefiningClassesPart1\DefiningClassesPart1\obj\Debug\DefiningClassesPart1.pdb

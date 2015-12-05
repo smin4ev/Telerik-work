@@ -1,0 +1,5 @@
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.pdb

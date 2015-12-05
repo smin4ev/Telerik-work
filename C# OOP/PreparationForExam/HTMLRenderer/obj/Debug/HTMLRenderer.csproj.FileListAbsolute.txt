@@ -1,0 +1,12 @@
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\bin\Debug\HTMLRenderer.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\OOP-Exam-March-2013-Variant-2\HTMLRenderer-Skeleton\obj\Debug\HTMLRenderer.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\Homework\HTMLRenderer\obj\Debug\HTMLRenderer.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\Homework\HTMLRenderer\obj\Debug\HTMLRenderer.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\Homework\HTMLRenderer\bin\Debug\HTMLRenderer.exe
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\Homework\HTMLRenderer\bin\Debug\HTMLRenderer.pdb
+D:\Telerik kursove\C# kurs\OOP\9.Подготовка за изпит по ООП\Homework\HTMLRenderer\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\PreparationForExam\HTMLRenderer\obj\Debug\HTMLRenderer.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\PreparationForExam\HTMLRenderer\obj\Debug\HTMLRenderer.pdb

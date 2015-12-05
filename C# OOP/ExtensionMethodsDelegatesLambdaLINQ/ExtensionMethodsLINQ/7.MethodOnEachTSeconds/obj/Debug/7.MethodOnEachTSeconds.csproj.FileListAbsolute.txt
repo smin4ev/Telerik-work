@@ -1,0 +1,6 @@
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\bin\Debug\7.MethodOnEachTSeconds.exe.config
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\bin\Debug\7.MethodOnEachTSeconds.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\bin\Debug\7.MethodOnEachTSeconds.pdb
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\obj\Debug\7.MethodOnEachTSeconds.csprojResolveAssemblyReference.cache
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\obj\Debug\7.MethodOnEachTSeconds.exe
+D:\Telerik kursove\C# kurs\OOP\Homeworks Пролет2013\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsLINQ\7.MethodOnEachTSeconds\obj\Debug\7.MethodOnEachTSeconds.pdb
